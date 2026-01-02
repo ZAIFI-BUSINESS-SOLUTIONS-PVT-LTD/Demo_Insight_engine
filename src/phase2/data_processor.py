@@ -41,7 +41,7 @@ def calculate_topic_metadata(topic_questions: List[Dict]) -> Dict:
     """Calculate topic-level accuracy and attempt ratio"""
     total = len(topic_questions)
     if total == 0:
-        return {"topic_accuracy": 0, "attempt_ratio": 0}
+        return {"topic_accuracy": 0, "attempt_ratio": 0, "question_count": 0}
     
     correct_count = sum(1 for q in topic_questions 
                        if determine_correctness(q.get("correct_option"), 
@@ -55,7 +55,8 @@ def calculate_topic_metadata(topic_questions: List[Dict]) -> Dict:
     
     return {
         "topic_accuracy": topic_accuracy,
-        "attempt_ratio": attempt_ratio
+        "attempt_ratio": attempt_ratio,
+        "question_count": total
     }
 
 

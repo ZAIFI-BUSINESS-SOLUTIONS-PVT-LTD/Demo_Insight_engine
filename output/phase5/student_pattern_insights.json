@@ -1,0 +1,352 @@
+[
+  {
+    "student_id": "2025300001",
+    "insight_rank": 1,
+    "topic": "Preparation and reactions of alcohols",
+    "subject": "Chemistry",
+    "accuracy": 64.29,
+    "problem": "Alcohols: Confuses reaction mechanisms and reactivity order for synthesis and dehydration.",
+    "action": "Practice Grignard reagents, E1/E2 mechanisms, and reactivity trends for different alcohol types.",
+    "citation": "Test class_8: Q47 (alcohol synthesis), Q48 (dehydration reactivity), Q49 (alcohol reactions), Q54 (dehydration product), Q60 (alcohol reactivity order)"
+  },
+  {
+    "student_id": "2025300001",
+    "insight_rank": 2,
+    "topic": "Unknown",
+    "subject": "Botany",
+    "accuracy": 80.0,
+    "problem": "Plant Metabolism: Confuses core concepts, equations, and products of photosynthesis and respiration.",
+    "action": "Revisit fundamental equations, inputs/outputs, and key stages of photosynthesis/respiration.",
+    "citation": "Test class_7: Q92 (photosynthesis equation), Q106 (respiration definition), Q110 (respiration byproducts), Q116 (aerobic respiration yield)"
+  },
+  {
+    "student_id": "2025300001",
+    "insight_rank": 3,
+    "topic": "Isomerism",
+    "subject": "Chemistry",
+    "accuracy": 0.0,
+    "problem": "Isomerism: Struggles to identify different isomer types and count possible structures.",
+    "action": "Practice isomer type identification and systematic drawing of structural isomers.",
+    "citation": "Test class_7: Q50 (misidentified isomer type); Test class_8: Q61 (incorrectly counted structural isomers), Q88 (misunderstood isomer stability)"
+  },
+  {
+    "student_id": "2025300001",
+    "insight_rank": 4,
+    "topic": "Enzymes – types, properties, mechanism",
+    "subject": "Botany",
+    "accuracy": 25.0,
+    "problem": "Enzymes: Confuses properties (coenzymes vs prosthetic groups) and optimal working conditions.",
+    "action": "Review enzyme structure, cofactors, and factors affecting enzyme activity, including ribozymes.",
+    "citation": "Test class_8: Q91 (coenzymes/prosthetic groups), Q94 (ribozymes), Q95 (pH/temp optima)"
+  },
+  {
+    "student_id": "2025300001",
+    "insight_rank": 5,
+    "topic": "Skeletal muscle – contractile proteins and muscle contraction",
+    "subject": "Zoology",
+    "accuracy": 50.0,
+    "problem": "Muscle Contraction: Confuses roles of contractile proteins and structural changes during contraction.",
+    "action": "Review the sliding filament theory, roles of actin/myosin/tropomyosin, and band changes.",
+    "citation": "Test class_7: Q172 (tropomyosin function); Test class_8: Q141 (muscle contraction process and motor unit)"
+  },
+  {
+    "student_id": "2025300005",
+    "insight_rank": 1,
+    "topic": "Photosynthesis & Respiration",
+    "subject": "Botany",
+    "accuracy": 82.22,
+    "problem": "Fails to recall precise mechanisms, locations, and redox reactions in photosynthesis and respiration.",
+    "action": "Revisit core concepts, reaction pathways, and cellular locations for photosynthesis and respiration.",
+    "citation": "Test class_7: Q91, Q97, Q101, Q103, Q105, Q107, Q108 in 'Unknown' topic (7 specific wrong questions out of 8, overall 82.22% accuracy)."
+  },
+  {
+    "student_id": "2025300005",
+    "insight_rank": 2,
+    "topic": "Enzymes – types, properties, mechanism",
+    "subject": "Botany",
+    "accuracy": 0.0,
+    "problem": "Lacks fundamental understanding of enzyme components, properties, and kinetics (Km).",
+    "action": "Thoroughly study enzyme types, cofactors, activity regulation, and Michaelis-Menten kinetics.",
+    "citation": "Test class_8: Q91, Q94, Q95, Q96 in Enzymes – types, properties, mechanism (0% accuracy, 4 wrong out of 4)."
+  },
+  {
+    "student_id": "2025300005",
+    "insight_rank": 3,
+    "topic": "Generation and conduction of nerve impulse",
+    "subject": "Zoology",
+    "accuracy": 0.0,
+    "problem": "Confuses phases of action potential and conditions required for nerve conduction.",
+    "action": "Study action potential phases and the role of myelination in nerve impulse transmission.",
+    "citation": "Test class_7: Q166, Q168 in Generation and conduction of nerve impulse (0% accuracy, 2 wrong out of 2)."
+  },
+  {
+    "student_id": "2025300005",
+    "insight_rank": 4,
+    "topic": "Neuron and nerves",
+    "subject": "Zoology",
+    "accuracy": 0.0,
+    "problem": "Confuses functions of dendrites, axons, and other neuron components.",
+    "action": "Review neuron anatomy, identifying specific functions of each part, especially impulse direction.",
+    "citation": "Test class_7: Q167, Q169 in Neuron and nerves (0% accuracy, 2 wrong out of 2)."
+  },
+  {
+    "student_id": "2025300005",
+    "insight_rank": 5,
+    "topic": "Preparation and reactions of alcohols",
+    "subject": "Chemistry",
+    "accuracy": 78.57,
+    "problem": "Struggles with alcohol dehydration, misjudging carbocation stability and rearrangement pathways.",
+    "action": "Practice carbocation stability order and rearrangements in E1/SN1 mechanisms.",
+    "citation": "Test class_8: Q48, Q54, Q60 in Preparation and reactions of alcohols (78.57% accuracy, 3 wrong out of 14)."
+  },
+  {
+    "student_id": "2025300007",
+    "insight_rank": 1,
+    "topic": "Preparation and reactions of alcohols",
+    "subject": "Chemistry",
+    "accuracy": 57.14,
+    "problem": "Struggles with alcohol reaction mechanisms, predicting products, and qualitative tests.",
+    "action": "Practice Grignard, dehydration, esterification, and Lucas test reaction mechanisms.",
+    "citation": "Test class_8: Q47, Q48, Q49, Q58, Q60, Q66 in Preparation and reactions of alcohols (57.14% accuracy, 6 wrong out of 14)."
+  },
+  {
+    "student_id": "2025300007",
+    "insight_rank": 2,
+    "topic": "Enzymes",
+    "subject": "Botany/Zoology",
+    "accuracy": 0.0,
+    "problem": "Confuses enzyme cofactor types, Km definition, and basic enzyme characteristics.",
+    "action": "Revisit enzyme properties, cofactors (prosthetic/coenzymes), and Michaelis-Menten kinetics.",
+    "citation": "Test class_8: Q91, Q94, Q95, Q96 in Enzymes (Botany, 0% accuracy); Test class_7: Q170 in Enzymes (Zoology, 0% accuracy)."
+  },
+  {
+    "student_id": "2025300007",
+    "insight_rank": 3,
+    "topic": "Isomerism",
+    "subject": "Chemistry",
+    "accuracy": 25.0,
+    "problem": "Incorrectly counts structural isomers and misidentifies isomer types from reactions.",
+    "action": "Practice drawing isomers and distinguishing positional, functional, and geometrical types.",
+    "citation": "Test class_7: Q50 (unattempted); Test class_8: Q61 (wrong count), Q90 (unattempted) in Isomerism (25% accuracy, 3 wrong out of 4)."
+  },
+  {
+    "student_id": "2025300007",
+    "insight_rank": 4,
+    "topic": "Plant Metabolic Processes",
+    "subject": "Botany",
+    "accuracy": 66.67,
+    "problem": "Misunderstands photosynthesis equations, C4 pathways, fermentation, and respiration products.",
+    "action": "Re-study reactants, products, and overall steps of photosynthesis and cellular respiration pathways.",
+    "citation": "Test class_7: Q92, Q101, Q114, Q116 in Unknown (Botany); Test class_8: Q112 in TCA cycle (Botany, 66.67% accuracy)."
+  },
+  {
+    "student_id": "2025300007",
+    "insight_rank": 5,
+    "topic": "Solutions",
+    "subject": "Chemistry",
+    "accuracy": 0.0,
+    "problem": "Confuses Henry's Law statements and ideal/non-ideal solution volume changes.",
+    "action": "Review Henry's Law principles and deviations from Raoult's Law (volume and enthalpy changes).",
+    "citation": "Test class_7: Q47 in Solubility (0% accuracy); Test class_8: Q79 in Ideal and non-ideal solutions (0% accuracy)."
+  },
+  {
+    "student_id": "2025300010",
+    "insight_rank": 1,
+    "topic": "Preparation and reactions of alcohols",
+    "subject": "Chemistry",
+    "accuracy": 71.43,
+    "problem": "Alcohol reactions: struggles to predict products from Grignard reagents and dehydration mechanisms.",
+    "action": "Focus on carbocation stability, rearrangement, and Grignard reagent reaction steps.",
+    "citation": "Test class_8: Q47, Q48, Q49, Q54 in Preparation and reactions of alcohols (71.43% accuracy, 4 wrong)."
+  },
+  {
+    "student_id": "2025300010",
+    "insight_rank": 2,
+    "topic": "Unknown",
+    "subject": "Botany",
+    "accuracy": 84.44,
+    "problem": "Plant metabolism: confuses details of photosynthesis equations and respiration pathway products/steps.",
+    "action": "Revisit photosynthesis and respiration pathways, focusing on key reactants, products, and enzymes.",
+    "citation": "Test class_7: Q92, Q96, Q116, Q117, Q120 in Unknown (Botany) (5 wrong questions)."
+  },
+  {
+    "student_id": "2025300010",
+    "insight_rank": 3,
+    "topic": "Adolescence and drug/alcohol abuse",
+    "subject": "Zoology",
+    "accuracy": 50.0,
+    "problem": "Drug abuse: confuses drug sources, classifications, and their specific physiological effects.",
+    "action": "Create flashcards for drug names, plant sources, and their key effects on the body.",
+    "citation": "Test class_7: Q157, Q164 in Adolescence and drug/alcohol abuse; Test class_8: Q178 in Adolescence and drug/alcohol abuse (50% accuracy, 3 wrong)."
+  },
+  {
+    "student_id": "2025300010",
+    "insight_rank": 4,
+    "topic": "Phenols and ethers – properties and reactions",
+    "subject": "Chemistry",
+    "accuracy": 50.0,
+    "problem": "Phenol/Ether reactions: misidentifies products and reagents for named reactions and synthesis steps.",
+    "action": "Review specific named reactions and reaction mechanisms for phenols and ethers.",
+    "citation": "Test class_8: Q59, Q63, Q70 in Phenols and ethers – properties and reactions (50% accuracy, 3 wrong)."
+  },
+  {
+    "student_id": "2025300010",
+    "insight_rank": 5,
+    "topic": "Enzymes – types, properties, mechanism",
+    "subject": "Botany",
+    "accuracy": 25.0,
+    "problem": "Enzymes: struggles with basic properties, cofactors, and definitions of enzyme types like ribozymes.",
+    "action": "Study enzyme classification, cofactors, and factors affecting enzyme activity thoroughly.",
+    "citation": "Test class_8: Q91, Q94, Q95 in Enzymes – types, properties, mechanism (Botany) (25% accuracy, 3 wrong)."
+  },
+  {
+    "student_id": "2025300012",
+    "insight_rank": 1,
+    "topic": "Preparation and reactions of alcohols",
+    "subject": "Chemistry",
+    "accuracy": 14.29,
+    "problem": "Misinterprets carbocation stability in alcohol dehydration and reaction products.",
+    "action": "Practice carbocation stability, rearrangements, and E1/E2 mechanisms for alcohols.",
+    "citation": "Test class_8: Q48, Q53, Q54, Q58 in Preparation and reactions of alcohols (wrong product, wrong order, wrong mechanism)"
+  },
+  {
+    "student_id": "2025300012",
+    "insight_rank": 2,
+    "topic": "Periodic trends",
+    "subject": "Chemistry",
+    "accuracy": 33.33,
+    "problem": "Confuses periodic trends and exceptions for properties like ionization energy, acidity.",
+    "action": "Review all periodic trends with examples and common exceptions.",
+    "citation": "Test class_7: Q61 (wrong IE1 trend); Test class_8: Q76 (wrong trend relations count)"
+  },
+  {
+    "student_id": "2025300012",
+    "insight_rank": 3,
+    "topic": "Unknown",
+    "subject": "Botany",
+    "accuracy": 77.78,
+    "problem": "Lacks core conceptual clarity in photosynthesis and cellular respiration mechanisms.",
+    "action": "Revisit overall processes, input/output, and key conceptual steps of cellular energy.",
+    "citation": "Test class_7: Q92, Q103, Q107, Q108, Q110, Q120 in Unknown (conceptual/factual errors)"
+  },
+  {
+    "student_id": "2025300012",
+    "insight_rank": 4,
+    "topic": "Isomerism",
+    "subject": "Chemistry",
+    "accuracy": 0.0,
+    "problem": "Struggles to identify and count different types of structural isomers.",
+    "action": "Practice systematically drawing and classifying various types of structural isomers.",
+    "citation": "Test class_7: Q50 (unattempted); Test class_8: Q61 (unattempted), Q90 (wrong count) in Isomerism"
+  },
+  {
+    "student_id": "2025300012",
+    "insight_rank": 5,
+    "topic": "Enzymes – types, properties, mechanism",
+    "subject": "Botany",
+    "accuracy": 0.0,
+    "problem": "Lacks factual recall and conceptual understanding of enzyme properties and definitions.",
+    "action": "Systematically review enzyme characteristics, coenzymes, prosthetic groups, and kinetic terms.",
+    "citation": "Test class_8: Q91, Q94, Q96 in Enzymes – types, properties, mechanism (all unattempted)"
+  },
+  {
+    "student_id": "2025300020",
+    "insight_rank": 1,
+    "topic": "Preparation and reactions of alcohols",
+    "subject": "Chemistry",
+    "accuracy": 57.14,
+    "problem": "Organic reactions: confuses Grignard products and dehydration reaction mechanisms/reactivity.",
+    "action": "Practice Grignard and dehydration mechanisms, focusing on carbocation stability and rearrangements.",
+    "citation": "Test class_8: Q47 (Grignard), Q48, Q53, Q54, Q58, Q60 (dehydration/reactivity) in Preparation and reactions of alcohols (6 wrong out of 14 questions, 57.14% accuracy)."
+  },
+  {
+    "student_id": "2025300020",
+    "insight_rank": 2,
+    "topic": "Phenols and ethers – properties and reactions",
+    "subject": "Chemistry",
+    "accuracy": 16.67,
+    "problem": "Organic reactions: misidentifies phenol/ether reaction products and ranks acid strengths incorrectly.",
+    "action": "Review Williamson synthesis and Kolbe's reaction; practice comparing acidity based on electronic effects.",
+    "citation": "Test class_8: Q52, Q63, Q59, Q70 (reaction products/mechanism), Q64 (weakest acid) in Phenols and ethers (5 wrong out of 6 questions, 16.67% accuracy)."
+  },
+  {
+    "student_id": "2025300020",
+    "insight_rank": 3,
+    "topic": "Adolescence and drug/alcohol abuse",
+    "subject": "Zoology",
+    "accuracy": 50.0,
+    "problem": "Factual recall: confuses drug identification, plant sources, and their specific physiological effects.",
+    "action": "Create flashcards for drug names, structures, sources, and physiological effects.",
+    "citation": "Test class_7: Q151 (drug identification); Test class_8: Q178 (drug properties), Q179 (plant source) in Adolescence and drug/alcohol abuse (3 wrong out of 6 questions, 50.0% accuracy)."
+  },
+  {
+    "student_id": "2025300020",
+    "insight_rank": 4,
+    "topic": "Photorespiration",
+    "subject": "Botany",
+    "accuracy": 0.0,
+    "problem": "Photosynthesis: struggles with Calvin cycle stoichiometry and photorespiration products/pathways.",
+    "action": "Diagram Calvin cycle and C4 pathways, noting ATP/NADPH usage and carbon flow.",
+    "citation": "Test class_7: Q94 (Calvin cycle ATP/NADPH), Q92 (photosynthesis equation), Q101 (C4 plants); Test class_8: Q107 (photorespiration products) (4 wrong across 'Unknown' and 'Photorespiration' topics)."
+  },
+  {
+    "student_id": "2025300020",
+    "insight_rank": 5,
+    "topic": "Neuron and nerves",
+    "subject": "Zoology",
+    "accuracy": 0.0,
+    "problem": "Neural system: misinterprets basic neuron function and major brain region anatomy/roles.",
+    "action": "Study neuron diagrams and brain maps, focusing on signal direction and area-specific functions.",
+    "citation": "Test class_7: Q169 (neuron function), Q167 (neuron match); Test class_8: Q144 (brain areas), Q145 (brain diagram) (4 wrong across 'Neuron and nerves' and 'Nervous system in humans' topics)."
+  },
+  {
+    "student_id": "2025300025",
+    "insight_rank": 1,
+    "topic": "Enzymes – types, properties, mechanism",
+    "subject": "Botany",
+    "accuracy": 0.0,
+    "problem": "Misses enzyme cofactor properties, ribozyme definition, and Michaelis-Menten kinetics concepts.",
+    "action": "Study enzyme types, cofactors, and basic kinetics, focusing on definitions and examples.",
+    "citation": "Test class_8: Q91 (cofactor properties), Q94 (ribozymes definition), Q95 (enzyme optima), Q96 (Km definition, unattempted)."
+  },
+  {
+    "student_id": "2025300025",
+    "insight_rank": 2,
+    "topic": "Morphology, anatomy and functions of different systems of an insect (Frog)",
+    "subject": "Zoology",
+    "accuracy": 16.67,
+    "problem": "Factual recall gaps in cockroach and frog anatomy, physiology, and reproductive details.",
+    "action": "Make detailed comparison charts of cockroach and frog body systems and functions.",
+    "citation": "Test class_7: Q175 (cockroach mouthparts), Q176 (cockroach general facts), Q177 (cockroach reproduction), Q178 (frog systems), Q180 (frog heart)."
+  },
+  {
+    "student_id": "2025300025",
+    "insight_rank": 3,
+    "topic": "Structure and function of carbohydrates, proteins, lipids, nucleic acids",
+    "subject": "Botany",
+    "accuracy": 25.0,
+    "problem": "Confuses basic classification and key properties of carbohydrates and lipid biomolecules.",
+    "action": "Create a simple chart for biomolecule types, structures, and their defining functions.",
+    "citation": "Test class_8: Q92 (glycogen similarity), Q93 (starch properties), Q135 (triglyceride classification)."
+  },
+  {
+    "student_id": "2025300025",
+    "insight_rank": 4,
+    "topic": "Carbohydrates",
+    "subject": "Chemistry",
+    "accuracy": 60.0,
+    "problem": "Complete lack of confidence or knowledge, leading to unattempted questions in topic.",
+    "action": "Focus on foundational concepts, nomenclature, and basic reactions of carbohydrates.",
+    "citation": "Test class_7: Q70, Q72, Q74, Q82 in Carbohydrates (all unattempted)."
+  },
+  {
+    "student_id": "2025300025",
+    "insight_rank": 5,
+    "topic": "Unknown",
+    "subject": "Botany",
+    "accuracy": 77.78,
+    "problem": "Struggles with core definitions and specific details in Photosynthesis and Respiration concepts.",
+    "action": "Review basic concepts, equations, and experimental proofs for photosynthesis and respiration.",
+    "citation": "Test class_7: Q92 (photosynthesis equation), Q99 (photosynthesis experiment), Q106 (respiration definition), Q120 (Kreb's cycle reason)."
+  }
+]

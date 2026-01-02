@@ -9,16 +9,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Struggled with calculating ΔH using bond enthalpies, indicating a sign or formula application error.",
-        "Topic accuracy is 0.0% and all questions were attempted, suggesting a conceptual misunderstanding."
+        "Struggled with bond enthalpy calculations, showing conceptual error; topic_accuracy 0%.",
+        "Difficulty applying bond enthalpy formula for reaction enthalpy; needs focused review."
       ],
       "learning_recommendations": [
-        "Review the formula for ΔH from bond enthalpies carefully, focusing on energy absorption/release conventions.",
-        "Practice 5-7 numerical problems on bond enthalpy calculations with detailed step-by-step solutions."
+        "Revise bond enthalpy calculation principles and formulas using worked examples.",
+        "Practice 5-7 numerical problems on enthalpy changes using bond energies."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -26,19 +27,20 @@
       "subject": "Chemistry",
       "topic_name": "Solubility",
       "strength_insights": [
-        "Demonstrated accurate understanding of Henry's Law statements, achieving 100.0% topic accuracy.",
-        "Consistently identified correct relationships between gas partial pressure and mole fraction in solution."
+        "Accurately understood Henry's Law principles; topic_accuracy 100%.",
+        "Demonstrated correct interpretation of gas solubility and partial pressure statements."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Practice advanced conceptual questions on solubility, extending understanding to non-ideal conditions.",
-        "Apply Henry's Law concepts to mixed problems involving different solution properties for 15 minutes."
+        "Leverage strong Henry's Law knowledge for complex conceptual problems.",
+        "Apply gas solubility understanding to numerical problems for deeper practice."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -49,16 +51,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Misidentified correct order of bond angles for various molecules, showing VSEPR application error.",
-        "Achieved 0.0% topic accuracy despite attempting all questions, indicating a conceptual gap."
+        "Incorrectly ordered bond angles, indicating a conceptual gap in VSEPR theory.",
+        "Difficulty relating molecular geometry to bond angle comparisons; topic_accuracy 0%."
       ],
       "learning_recommendations": [
-        "Revise VSEPR theory rules for predicting molecular geometry and bond angles using 5-7 examples.",
-        "Solve scaffolded problems on comparing bond angles, focusing on lone pair effects and electronegativity."
+        "Revise VSEPR theory, molecular geometries, and factors affecting bond angles.",
+        "Practice 5-7 questions involving bond angle comparisons for various molecules."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -69,16 +72,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Struggled with mole calculations for chemical reactions, possibly due to incorrect mole ratios.",
-        "Topic accuracy is 0.0% despite 100.0% attempt ratio, suggesting fundamental calculation errors."
+        "Error in calculating moles for combustion reaction; topic_accuracy 0%.",
+        "Suggests misunderstanding of stoichiometric ratios or molar mass calculations."
       ],
       "learning_recommendations": [
-        "Revisit mole concept and balanced chemical equations, then solve 5-8 basic stoichiometry problems.",
-        "Practice calculations involving limiting reagents and product yields for 15 minutes to improve accuracy."
+        "Review fundamental stoichiometry: balanced equations, mole-to-mass conversions.",
+        "Practice 5-7 numerical problems on stoichiometry, focusing on combustion."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -89,14 +93,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+        "Question unattempted, indicating lack of confidence in isomer identification; attempt_ratio 0%.",
+        "Suggests significant gap in understanding different types of isomers."
       ],
       "learning_recommendations": [
-        "Insufficient data available to generate meaningful recommendations for this topic."
+        "Learn different types of isomerism with clear definitions and examples.",
+        "Practice identifying isomer types by drawing structures and comparing them."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 0.0
+        "attempt_ratio": 0.0,
+        "question_count": 1
       }
     },
     {
@@ -107,16 +114,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Struggled with calculating ΔU from ΔH, indicating an error in applying ΔH = ΔU + Δn_g RT relation.",
-        "Achieved 0.0% topic accuracy and 100.0% attempt ratio, highlighting a conceptual gap in thermochemistry."
+        "Incorrectly calculated ΔU from ΔH, misunderstanding the relationship; topic_accuracy 0%.",
+        "Conceptual error applying thermodynamic equations to reactions; review required."
       ],
       "learning_recommendations": [
-        "Review the relationship between enthalpy and internal energy, focusing on Δn_g calculation and formula.",
-        "Solve numerical problems converting between ΔH and ΔU for different reaction types for 10 minutes."
+        "Revise the relationship between internal energy (ΔU) and enthalpy (ΔH) thoroughly.",
+        "Practice numerical problems calculating ΔU from ΔH, focusing on Δn_g."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -124,19 +132,20 @@
       "subject": "Chemistry",
       "topic_name": "Acids and bases",
       "strength_insights": [
-        "Accurately identified conjugate base pairs, showing strong understanding of acid-base definitions.",
-        "Achieved 100.0% topic accuracy with a 100.0% attempt ratio, indicating solid foundational knowledge."
+        "Correctly identified conjugate bases; topic_accuracy 100%.",
+        "Accurate application of Brønsted-Lowry theory for acid-base pairs."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Attempt more complex problems on polyprotic acids and bases to further deepen conceptual understanding.",
-        "Practice mixed concept problems including pH, pOH, and buffer calculations for 15-20 minutes."
+        "Leverage strong understanding by solving complex acid-base equilibria problems.",
+        "Practice identifying conjugate pairs in intricate polyprotic acid/base scenarios."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -147,16 +156,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Made a factual error regarding Bohr model properties, specifically on orbital radius dependency.",
-        "Achieved 0.0% topic accuracy with a 100.0% attempt ratio, indicating a specific knowledge gap."
+        "Incorrectly identified a Bohr model statement, showing conceptual misunderstanding; topic_accuracy 0%.",
+        "Weakness in recalling or applying specific postulates of atomic models."
       ],
       "learning_recommendations": [
-        "Review key postulates and derivations of the Bohr model thoroughly from textbook resources.",
-        "Practice conceptual questions on different atomic models and their limitations for 10 minutes."
+        "Review Bohr model postulates and limitations in detail for clarity.",
+        "Practice distinguishing correct/incorrect statements about various atomic models."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -167,16 +177,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Misidentified factors affecting the degree of ionization, indicating conceptual confusion about dilution.",
-        "Topic accuracy is 0.0% with a 100.0% attempt ratio, pinpointing a significant conceptual misunderstanding."
+        "Incorrectly identified highest degree of ionisation; topic_accuracy 0%.",
+        "Misunderstanding of concentration effects on weak electrolyte dissociation."
       ],
       "learning_recommendations": [
-        "Revise the effect of dilution on the degree of ionization for weak electrolytes using illustrative examples.",
-        "Solve 5-7 conceptual problems on factors affecting ionization, including common ion effect."
+        "Revisit degree of ionisation for weak electrolytes and its concentration dependence.",
+        "Practice calculating and comparing ionisation degrees for different solutions."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -184,19 +195,20 @@
       "subject": "Chemistry",
       "topic_name": "Balancing redox reactions",
       "strength_insights": [
-        "Successfully balanced a disproportionation redox reaction, demonstrating strong understanding of oxidation states.",
-        "Achieved 100.0% topic accuracy, indicating proficiency in applying balancing methods."
+        "Correctly balanced disproportionation redox reaction; topic_accuracy 100%.",
+        "Demonstrated accurate application of redox balancing rules in alkaline medium."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Practice more complex redox balancing problems in both acidic and basic mediums to maintain proficiency.",
-        "Attempt timed drills on balancing half-reactions to enhance speed and accuracy in calculations."
+        "Apply strong balancing skill to complex redox reactions and different agents.",
+        "Practice balancing redox reactions under both acidic and basic conditions."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -207,14 +219,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+        "Question unattempted, indicating a knowledge gap; attempt_ratio 0%.",
+        "Lack of familiarity with first-order reaction calculations and derivations."
       ],
       "learning_recommendations": [
-        "Insufficient data available to generate meaningful recommendations for this topic."
+        "Understand derivation and application of first-order integrated rate equations.",
+        "Practice 5-7 numerical problems for first-order reaction time/concentration changes."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 0.0
+        "attempt_ratio": 0.0,
+        "question_count": 1
       }
     },
     {
@@ -222,19 +237,20 @@
       "subject": "Chemistry",
       "topic_name": "Alkanes",
       "strength_insights": [
-        "Correctly identified methods for methane preparation, showing good knowledge of alkane synthesis.",
-        "Achieved 100.0% topic accuracy and 100.0% attempt ratio, demonstrating solid understanding."
+        "Accurately identified unsuitable methane preparation methods; topic_accuracy 100%.",
+        "Strong knowledge of alkane synthesis reaction mechanisms and limitations."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Explore detailed reaction mechanisms for alkane preparation and reactions for a deeper understanding.",
-        "Practice mixed questions involving various organic reactions to solidify knowledge across different functional groups."
+        "Explore synthesis methods for other hydrocarbons and their unique reactions.",
+        "Practice mechanism-based questions related to alkane reactions and functional group transformations."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -245,14 +261,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+        "Question unattempted, implying lack of recall or confidence; attempt_ratio 0%.",
+        "Suggests foundational gap in periodic properties and element classifications."
       ],
       "learning_recommendations": [
-        "Insufficient data available to generate meaningful recommendations for this topic."
+        "Systematically review key facts and trends of the periodic table.",
+        "Practice true/false and classification questions to reinforce concepts."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 0.0
+        "attempt_ratio": 0.0,
+        "question_count": 1
       }
     },
     {
@@ -260,19 +279,20 @@
       "subject": "Chemistry",
       "topic_name": "Electronic configurations",
       "strength_insights": [
-        "Accurately assessed statements about Chromium's electronic configuration and related properties.",
-        "Achieved 100.0% topic accuracy, indicating strong understanding of d-block element configurations."
+        "Correctly identified Chromium's electronic configuration properties; topic_accuracy 100%.",
+        "Strong knowledge of electron filling rules and transition element magnetic properties."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Practice configurations of transition metals and their ions, including exceptions, for 10 minutes.",
-        "Attempt questions involving quantum numbers and magnetic properties derived from electronic configurations."
+        "Solve problems involving electronic configurations of other transition metal ions.",
+        "Practice calculating magnetic moments and predicting stability based on configuration."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -280,19 +300,20 @@
       "subject": "Chemistry",
       "topic_name": "Solubility product",
       "strength_insights": [
-        "Successfully calculated solubility from Ksp for AX2 type salt, demonstrating good numerical application.",
-        "Achieved 100.0% topic accuracy and 100.0% attempt ratio, indicating strong problem-solving skills."
+        "Correctly calculated solubility from Ksp for AX2; topic_accuracy 100%.",
+        "Accurate application of solubility product expression for sparingly soluble salts."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Attempt more complex Ksp problems, including common ion effect and pH influence on solubility.",
-        "Practice diverse numerical problems on solubility product for different salt types (e.g., AX, AX3) for 15 minutes."
+        "Extend understanding to common ion effect problems and predicting precipitation.",
+        "Practice complex Ksp calculations involving different stoichiometric ratios."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -303,16 +324,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Misidentified an incorrect periodic trend, suggesting a lack of clarity on specific property variations.",
-        "Achieved 0.0% topic accuracy with a 100.0% attempt ratio, indicating a conceptual gap."
+        "Incorrectly identified a periodic trend, showing confusion; topic_accuracy 0%.",
+        "Difficulty comparing properties like acidic character and ionization energy."
       ],
       "learning_recommendations": [
-        "Revise all major periodic trends (e.g., IE, electronegativity, acidic/basic character) and their exceptions.",
-        "Practice comparative questions on periodic properties for 10-12 elements, focusing on justification."
+        "Systematically review all major periodic trends, including exceptions.",
+        "Practice comparative questions on various elements and their compounds."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -323,16 +345,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Incorrectly ordered carbocation stability, indicating a misunderstanding of stabilizing factors.",
-        "Achieved 0.0% topic accuracy despite attempting all questions, suggesting conceptual weakness."
+        "Incorrectly ordered carbocation stability, indicating conceptual flaw; topic_accuracy 0%.",
+        "Difficulty applying hyperconjugation or inductive effects for intermediates."
       ],
       "learning_recommendations": [
-        "Review factors affecting carbocation stability (inductive, hyperconjugation, resonance) with clear examples.",
-        "Practice arranging different carbocations in order of stability, explaining reasoning for 10 minutes."
+        "Revise factors influencing carbocation stability (inductive, hyperconjugation, resonance).",
+        "Practice arranging carbocations, carbanions, and free radicals by stability."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -343,16 +366,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Misunderstood Daniell cell behavior under external potential and unattempted an electrolysis calculation.",
-        "Low topic accuracy (0.0%) and attempt ratio (50.0%) indicate significant knowledge gaps and low confidence."
+        "Misunderstood Daniell cell operation under external potential; topic_accuracy 0% on attempted questions.",
+        "Electrolysis question unattempted, indicating difficulty with quantitative electrochemistry; attempt_ratio 50%."
       ],
       "learning_recommendations": [
-        "Thoroughly review Daniell cell operation and the effects of external potential, then solve 5 conceptual problems.",
-        "Study electrolysis principles and Faraday's laws, then practice 5 numerical problems with worked examples."
+        "Review galvanic cells (Daniell cell) and the effect of external potential thoroughly.",
+        "Practice numerical problems on electrolysis, starting with Faraday's laws."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 50.0
+        "attempt_ratio": 50.0,
+        "question_count": 2
       }
     },
     {
@@ -363,16 +387,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Incorrectly interpreted potential energy diagrams to determine activation energy/enthalpy change.",
-        "Achieved 0.0% topic accuracy despite a 100.0% attempt ratio, indicating a conceptual misunderstanding."
+        "Incorrectly interpreted potential energy diagram, showing conceptual error; topic_accuracy 0%.",
+        "Difficulty relating visual representations to thermodynamic parameters like activation energy."
       ],
       "learning_recommendations": [
-        "Revise how to extract activation energy and enthalpy change from potential energy diagrams visually.",
-        "Practice interpreting various potential energy diagrams, identifying exothermic/endothermic reactions."
+        "Revise potential energy diagrams; extract ΔH and activation energy for reactions.",
+        "Practice interpreting various potential energy diagrams, focusing on exothermic/endothermic."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -380,20 +405,21 @@
       "subject": "Chemistry",
       "topic_name": "Carbohydrates",
       "strength_insights": [
-        "Good understanding of carbohydrate reactions and structural identification (e.g., Haworth structures, epimers).",
-        "Strong recall of factual information, like D-glucose reactions and assertion-reasoning, with 70.0% accuracy."
+        "Accurately identified Haworth structures, oxidation products, and isomer types; topic_accuracy 70%.",
+        "Good knowledge of general carbohydrate characteristics and matching questions."
       ],
       "weakness_insights": [
-        "Confused α/β forms of glucose (anomers) and exhibited incomplete knowledge of osazone formation.",
-        "Difficulty identifying specific monosaccharide units within complex structures, indicating attention to detail issues."
+        "Struggled with alpha/beta glucose forms (anomers) and osazone formation.",
+        "Errors identifying monosaccharide units in complex structures, showing structural interpretation weakness."
       ],
       "learning_recommendations": [
-        "Review anomers and epimers using 3D models and practice identifying them in different carbohydrate structures.",
-        "Drill on named reactions of carbohydrates like osazone formation, focusing on the reacting monosaccharide types."
+        "Review specific carbohydrate reactions: osazone formation, anomers, epimers, mutarotation.",
+        "Practice drawing and identifying monosaccharide units in di-/polysaccharides for structural understanding."
       ],
       "topic_metadata": {
         "topic_accuracy": 70.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 10
       }
     },
     {
@@ -404,16 +430,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Incorrectly ordered bond dissociation energies, suggesting a misapplication of electronic effects concepts.",
-        "Achieved 0.0% topic accuracy, indicating a conceptual gap in understanding C-H bond strengths."
+        "Incorrectly ordered bond dissociation energy; topic_accuracy 0%.",
+        "Misunderstanding of electronic effects (hyperconjugation/resonance) on bond strength."
       ],
       "learning_recommendations": [
-        "Revise inductive and resonance effects thoroughly, especially their impact on bond strengths and stability.",
-        "Practice comparative questions on bond dissociation energies for various organic compounds for 10 minutes."
+        "Revise electronic effects (inductive, resonance, hyperconjugation) and impact on bond strength.",
+        "Practice comparing bond dissociation energies in various organic molecules."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -421,19 +448,20 @@
       "subject": "Chemistry",
       "topic_name": "Colligative properties",
       "strength_insights": [
-        "Accurately compared osmotic pressure of different solutions, demonstrating strong application of concepts.",
-        "Achieved 100.0% topic accuracy and 100.0% attempt ratio, indicating solid numerical problem-solving skills."
+        "Correctly ranked osmotic pressures; topic_accuracy 100%.",
+        "Accurate application of colligative properties dependence on solute particles."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Practice problems involving Van't Hoff factor for electrolytic solutions to extend colligative properties knowledge.",
-        "Attempt mixed problems on all colligative properties (e.g., boiling point elevation, freezing point depression) for 20 minutes."
+        "Apply strength to other colligative properties: boiling point elevation, freezing point depression.",
+        "Practice numerical problems involving van't Hoff factor for electrolytic solutions."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -441,20 +469,21 @@
       "subject": "Chemistry",
       "topic_name": "Proteins",
       "strength_insights": [
-        "Accurately matched amino acids with side chain features, demonstrating good knowledge of amino acid structures.",
-        "Correctly identified a non-amino acid, showcasing strong recall of amino acid classification with 50.0% accuracy."
+        "Successfully matched amino acid features and identified non-amino acids; topic_accuracy 50%.",
+        "Distinguished basic amino acid properties, showing recall of common examples."
       ],
       "weakness_insights": [
-        "Struggled to identify amino acids from hydrolysis products and unattempted a reaction product question.",
-        "Low attempt ratio (75.0%) suggests some lack of confidence or knowledge gaps in protein reactions."
+        "Struggled to identify amino acids from hydrolysis products, indicating peptide bond cleavage gap.",
+        "Unattempted question highlights difficulty with amino acid reaction mechanisms; attempt_ratio 75%."
       ],
       "learning_recommendations": [
-        "Review different amino acid structures and common reactions like hydrolysis/synthesis with 5-7 practice problems.",
-        "Focus on identifying products of protein-related reactions, using flowcharts or reaction schemes as study aids."
+        "Focus on amino acid reactions, peptide bond formation, and hydrolysis using examples.",
+        "Practice identifying products of various amino acid reactions, including complex structures."
       ],
       "topic_metadata": {
         "topic_accuracy": 50.0,
-        "attempt_ratio": 75.0
+        "attempt_ratio": 75.0,
+        "question_count": 4
       }
     },
     {
@@ -462,20 +491,21 @@
       "subject": "Chemistry",
       "topic_name": "Vitamins and hormones",
       "strength_insights": [
-        "Strong factual recall regarding vitamin deficiency diseases and general hormone definitions (topic accuracy 80.0%).",
-        "Consistently identified specific vitamin names and their storage properties, demonstrating solid foundational knowledge."
+        "Accurately matched vitamin deficiencies and identified B-group vitamin properties; topic_accuracy 80%.",
+        "Strong knowledge of general biological roles of hormones and vitamins."
       ],
       "weakness_insights": [
-        "Made a specific factual error regarding the metal present in Vitamin B12 (Cobalt vs. Zinc).",
-        "Despite high attempt ratio, this indicates a need for precise memorization of key vitamin components."
+        "Incorrectly identified metal in Vitamin B12, indicating a specific factual recall gap.",
+        "Suggests need for focused revision on specific compositions of important biomolecules."
       ],
       "learning_recommendations": [
-        "Reinforce memorization of specific vitamin components, like metals, through flashcards or focused drills.",
-        "Practice matching exercises for vitamins, their chemical names, and associated deficiency diseases for 10 minutes."
+        "Strengthen factual recall of specific vitamin compositions and constituent elements.",
+        "Practice mixed questions on vitamins/hormones, combining functions with chemical structures."
       ],
       "topic_metadata": {
         "topic_accuracy": 80.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 5
       }
     },
     {
@@ -486,14 +516,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+        "Question unattempted, indicating significant knowledge gap; attempt_ratio 0%.",
+        "Unfamiliarity with reagents/conditions for organic reactions involving alcohols."
       ],
       "learning_recommendations": [
-        "Insufficient data available to generate meaningful recommendations for this topic."
+        "Review common preparation methods and characteristic reactions of alcohols.",
+        "Practice reaction prediction problems for alcohols, starting with simpler transformations."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 0.0
+        "attempt_ratio": 0.0,
+        "question_count": 1
       }
     },
     {
@@ -501,19 +534,20 @@
       "subject": "Chemistry",
       "topic_name": "Enzymes",
       "strength_insights": [
-        "Demonstrated strong understanding of enzyme composition (proteins) and specific enzyme functions (e.g., Maltase).",
-        "Achieved 100.0% topic accuracy, indicating excellent conceptual clarity on enzyme classification and roles."
+        "Correctly identified enzyme composition, function, and classification; topic_accuracy 100%.",
+        "Strong foundational knowledge of enzyme catalytic roles and specificity."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Explore enzyme kinetics and factors affecting enzyme activity through advanced conceptual questions.",
-        "Practice distinguishing different enzyme classes and their specific reaction types for 15 minutes."
+        "Explore enzyme kinetics and factors affecting enzyme activity in more detail.",
+        "Practice applying enzyme principles to biological processes and metabolic pathways."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 3
       }
     },
     {
@@ -521,20 +555,21 @@
       "subject": "Botany",
       "topic_name": "Unknown",
       "strength_insights": [
-        "Student accurately understands photosynthesis mechanisms, including light reactions, C4 pathways, and Calvin cycle requirements.",
-        "Consistently demonstrates knowledge of plant respiration pathways (glycolysis, TCA cycle) and general biological classification (topic_accuracy 77.78%)."
+        "Consistently demonstrates strong understanding of major photosynthesis and plant respiration pathways, achieving a topic accuracy of 77.78%.",
+        "Accurately identifies key details regarding C4 plant characteristics, glycolysis steps, and biomolecule structures."
       ],
       "weakness_insights": [
-        "Struggles with precise details of photosynthesis equations and redox reactions, confusing oxidation and reduction concepts.",
-        "Shows conceptual gaps in respiration byproducts, fermentation specifics, and the aerobic nature of Kreb's cycle."
+        "Exhibits fundamental conceptual errors in identifying oxidation and reduction steps within photosynthesis and respiration processes.",
+        "Struggles with precise recall of full metabolic equations, byproducts, and specific functional details for some organelles."
       ],
       "learning_recommendations": [
-        "Revise photosynthesis redox reactions and complete equations using 5 worked examples, then solve 8 practice problems on it.",
-        "Drill respiratory pathways, byproducts, and fermentation characteristics with 15 minutes of daily focused conceptual questions."
+        "Reinforce redox reaction concepts in photosynthesis and respiration by practicing 10 targeted questions with detailed explanations.",
+        "Drill specific balanced equations, byproducts, and organelle functions using flashcards and mixed practice sets for 15 minutes daily."
       ],
       "topic_metadata": {
         "topic_accuracy": 77.78,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 45
       }
     },
     {
@@ -542,19 +577,20 @@
       "subject": "Zoology",
       "topic_name": "Menstrual cycle",
       "strength_insights": [
-        "Demonstrates strong understanding of menstrual cycle phases and associated hormonal regulation.",
-        "Consistently identifies key physiological events, achieving 100% topic accuracy."
+        "Demonstrated complete understanding of menstrual cycle phases and associated hormonal regulation, achieving 100% accuracy.",
+        "Consistently identified key physiological changes and indicators related to the menstrual cycle correctly."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Practice advanced application questions on hormonal feedback loops in menstruation for deeper understanding.",
-        "Regularly review key concepts of the menstrual cycle to maintain the current high accuracy."
+        "Continue reinforcing menstrual cycle concepts through advanced problem-solving to maintain 100% accuracy.",
+        "Practice applying knowledge of hormonal regulation in complex scenarios for deeper understanding."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 3
       }
     },
     {
@@ -562,19 +598,20 @@
       "subject": "Zoology",
       "topic_name": "Microscopic anatomy of testis and ovary",
       "strength_insights": [
-        "Accurately identified cell types within seminiferous tubules, showing precise anatomical knowledge.",
-        "Achieved perfect 100% topic accuracy on fundamental anatomical structures."
+        "Accurately identified key cell types within the seminiferous tubules, showing 100% topic accuracy.",
+        "Student possesses a clear understanding of the basic microscopic anatomy of the testis."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Reinforce knowledge by practicing identifying different cell types in microscopic anatomy diagrams.",
-        "Explore functional aspects and interrelationships of cells in testis and ovary to build on this strength."
+        "Review advanced microscopic structures of testis and ovary through detailed diagrams and models.",
+        "Challenge understanding with scenario-based questions on reproductive organ cellular functions."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -582,19 +619,20 @@
       "subject": "Zoology",
       "topic_name": "Fertilisation, embryo development up to blastocyst formation, implantation",
       "strength_insights": [
-        "Shows strong grasp of key events and timelines in early embryonic development and blastocyst formation.",
-        "Consistently correct on conceptual questions, reflected by 100% topic accuracy."
+        "Accurately recalled milestones of embryonic development and blastomere formation, demonstrating 100% accuracy.",
+        "Student clearly understands early embryonic stages, including cleavage and major organ system development."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Practice sequence-based questions on developmental stages, including hormonal control, for deeper insights.",
-        "Attempt higher-order thinking questions on differentiation and organogenesis to challenge understanding."
+        "Explore detailed molecular mechanisms underlying fertilisation and early embryo development using animated modules.",
+        "Practice complex sequencing questions on blastocyst formation and implantation stages consistently."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 2
       }
     },
     {
@@ -602,19 +640,20 @@
       "subject": "Zoology",
       "topic_name": "Birth control – need and methods, contraception and medical termination of pregnancy (MTP)",
       "strength_insights": [
-        "Demonstrates comprehensive knowledge of various birth control methods and their mechanisms of action.",
-        "Accurately identified specific functions of IUDs and emergency contraceptives, achieving 100% accuracy."
+        "Demonstrated strong knowledge of various birth control methods and their mechanisms, achieving 100% accuracy.",
+        "Student accurately identified common contraceptive types, emergency options, and their physiological effects."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Review clinical applications and ethical considerations of MTP and various contraceptive methods.",
-        "Practice comparing effectiveness and reversibility of different contraceptive methods using case studies."
+        "Review the societal and ethical aspects of MTP and contraception methods thoroughly.",
+        "Engage with case studies on family planning to apply knowledge in diverse scenarios."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 3
       }
     },
     {
@@ -622,20 +661,21 @@
       "subject": "Zoology",
       "topic_name": "Infectious and non-infectious diseases",
       "strength_insights": [
-        "Displays good understanding of genetic disorder inheritance patterns and symptoms, especially Down Syndrome.",
-        "Accurately identified characteristics of genetic disorders, contributing to 66.67% topic accuracy."
+        "Accurately identified symptoms of Down Syndrome and modes of genetic inheritance, showing competence.",
+        "Student correctly matched disorders with inheritance patterns and recognized chromosomal aberration characteristics."
       ],
       "weakness_insights": [
-        "Struggles with precise details of genetic mutations; specifically misidentified codon change for sickle-cell anaemia.",
-        "Difficulty in evaluating the truthfulness of both assertion and reason statements, leading to conceptual error."
+        "Mistakenly identified the correct codon substitution sequence (GUG/GAG) for Sickle-cell anaemia.",
+        "Conceptual error in genetic basis of sickle cell anaemia, affecting assertion-reasoning question accuracy."
       ],
       "learning_recommendations": [
-        "Thoroughly review specific genetic mutations, like sickle-cell anaemia's exact codon change, using diagrams.",
-        "Practice assertion-reason type questions on genetic disorders to improve critical evaluation skills."
+        "Thoroughly revise the genetic basis of Sickle-cell anaemia, specifically the exact codon change, using diagrams.",
+        "Practice more assertion-reasoning questions on genetic disorders to improve conceptual clarity and analysis."
       ],
       "topic_metadata": {
         "topic_accuracy": 66.67,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 3
       }
     },
     {
@@ -643,19 +683,20 @@
       "subject": "Zoology",
       "topic_name": "Mechanism of evolution – variation (mutation and recombination) and natural selection with examples",
       "strength_insights": [
-        "Demonstrates clear understanding of fundamental genetic concepts like X-body discovery and pleiotropy.",
-        "Consistently applied definitions correctly, resulting in a perfect 100% topic accuracy."
+        "Accurately understood Henking's X body discovery and the concept of pleiotropy, achieving 100% accuracy.",
+        "Student clearly grasps fundamental genetic concepts related to sex determination and gene expression."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Engage with advanced problems on gene interactions and their phenotypic expressions, building on pleiotropy knowledge.",
-        "Review recent advancements and examples in mechanisms of evolution to deepen conceptual understanding."
+        "Explore advanced examples of pleiotropy and other genetic interactions in evolutionary contexts.",
+        "Practice applying concepts of mutation and recombination to complex population genetics problems."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 2
       }
     },
     {
@@ -663,19 +704,20 @@
       "subject": "Zoology",
       "topic_name": "Cancer, HIV and AIDS",
       "strength_insights": [
-        "Exhibits strong knowledge regarding characteristics of cancer cells and risk factors like smoking.",
-        "Accurately identified properties of cancer cells and related health risks, achieving 100% topic accuracy."
+        "Strong understanding of cancer characteristics like chromosomal aberrations and contact inhibition, 100% accuracy.",
+        "Accurately identified lifestyle factors like smoking linked to specific cancer types and mechanisms."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Explore advanced topics like cancer diagnostics and treatment modalities to expand existing knowledge.",
-        "Practice problem-solving on the molecular basis of HIV infection and its immune system impact."
+        "Deepen understanding of HIV/AIDS pathogenesis and treatment strategies with recent research updates.",
+        "Practice differentiating between various cancer types, their causes, and diagnostic methods."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 3
       }
     },
     {
@@ -683,19 +725,20 @@
       "subject": "Zoology",
       "topic_name": "Adolescence and drug/alcohol abuse",
       "strength_insights": [
-        "Demonstrates excellent recall of drug classifications, plant sources, and their physiological effects.",
-        "Accurately identified specific drug mechanisms and chemical structures, indicating 100% topic accuracy."
+        "Excellent recall of various drug types, their plant sources, and physiological effects, achieving 100% accuracy.",
+        "Student demonstrates a robust understanding of drug mechanisms, including specific neurotransmitter interactions."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Deepen understanding of neurobiological pathways affected by different drugs and their long-term impact.",
-        "Practice case studies involving drug abuse scenarios and their intervention strategies to apply knowledge."
+        "Research the long-term societal and health impacts of drug abuse beyond immediate physiological effects.",
+        "Engage with case studies on rehabilitation and prevention strategies related to substance abuse."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 4
       }
     },
     {
@@ -703,19 +746,20 @@
       "subject": "Zoology",
       "topic_name": "Need for reproductive health and prevention of sexually transmitted diseases (STDs)",
       "strength_insights": [
-        "Accurately identified curable STDs, demonstrating essential knowledge about reproductive health.",
-        "Maintained a perfect 100% topic accuracy on critical public health information."
+        "Correctly identified curable sexually transmitted diseases, showing 100% topic accuracy.",
+        "Student has accurate knowledge regarding the curability status of various STDs."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Study various prevention strategies and early detection methods for STDs, including less curable ones.",
-        "Review government policies and awareness programs related to reproductive health and STD prevention."
+        "Explore detailed prevention strategies for all STDs, including early detection and treatment protocols.",
+        "Research public health initiatives related to reproductive health awareness and STD prevention."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -723,20 +767,21 @@
       "subject": "Zoology",
       "topic_name": "Basic concepts of immunology – vaccines",
       "strength_insights": [
-        "Understands core immunology concepts, including autoimmune diseases and antibody functions, with 80% accuracy.",
-        "Accurately identifies examples of autoimmune conditions and types of immune barriers."
+        "Solid understanding of autoimmune diseases and allergen-related immune responses, like IgE abundance.",
+        "Correctly categorized innate immune barriers and major types of immunological disorders."
       ],
       "weakness_insights": [
-        "Confused different categories of immunity, specifically struggling with ‘Naturally Acquired passive immunity’ examples.",
-        "Misidentified examples of acquired immunity, indicating a conceptual gap in immunity classification."
+        "Struggled with correctly identifying examples of 'Naturally Acquired Passive Immunity' from given statements.",
+        "Misclassified specific instances of passive immunity, indicating a conceptual gap in immunology distinctions."
       ],
       "learning_recommendations": [
-        "Revise classification of immunity types, especially distinguishing natural vs. artificial, and active vs. passive immunity.",
-        "Practice distinguishing various immunity examples through 10-minute targeted drills using flowcharts."
+        "Thoroughly review all types of immunity (active, passive, natural, artificial) with specific, clear examples.",
+        "Practice classification questions on immunity, differentiating carefully between various acquisition mechanisms."
       ],
       "topic_metadata": {
         "topic_accuracy": 80.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 5
       }
     },
     {
@@ -744,19 +789,20 @@
       "subject": "Zoology",
       "topic_name": "Pathogens – parasites causing human diseases (malaria, dengue, chikungunya, filariasis, ascariasis, typhoid, pneumonia, common cold, amoebiasis, ring worm)",
       "strength_insights": [
-        "Demonstrates strong knowledge of common human diseases, their symptoms, and causative agents like malaria.",
-        "Accurately identified characteristics and etiological agents for various diseases, achieving 100% topic accuracy."
+        "Accurately identified symptoms of typhoid and the causative agent of malignant malaria, showing 100% accuracy.",
+        "Student demonstrates strong knowledge of common human diseases, their pathogens, and associated characteristics."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Explore advanced aspects like disease prevention and control strategies for major human pathogens.",
-        "Practice differentiating symptoms and treatments of similar diseases to refine diagnostic knowledge."
+        "Create flashcards for all listed pathogens, their diseases, symptoms, and prevention methods for quick recall.",
+        "Explore the life cycles of major parasites like Plasmodium to deepen understanding of disease transmission."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 3
       }
     },
     {
@@ -764,20 +810,21 @@
       "subject": "Zoology",
       "topic_name": "Generation and conduction of nerve impulse",
       "strength_insights": [
-        "Understands the basic phases of nerve impulse generation like repolarisation and depolarisation from diagrams.",
-        "Successfully identified correct labels in action potential diagram, contributing to 50% topic accuracy."
+        "Accurately identified phases of nerve impulse generation (polarization, depolarization, repolarization) in diagrams.",
+        "Student possesses foundational understanding of resting and action potential representations in neurons."
       ],
       "weakness_insights": [
-        "Misconception regarding the role of Nodes of Ranvier in nerve impulse transmission and myelination effects.",
-        "Struggled to identify conditions that impede nerve impulse conduction, lowering topic accuracy to 50%."
+        "Misunderstood the critical role of Nodes of Ranvier in nerve impulse conduction, leading to an incorrect answer.",
+        "Failed to recognise that continuous myelination without nodes impedes efficient action potential propagation."
       ],
       "learning_recommendations": [
-        "Thoroughly revise the mechanism of saltatory conduction and the crucial role of Nodes of Ranvier.",
-        "Practice drawing and explaining action potential diagrams and impulse transmission in myelinated vs. non-myelinated neurons."
+        "Review the mechanism of saltatory conduction, focusing on the function of Nodes of Ranvier in myelinated neurons.",
+        "Practice conceptual questions on nerve impulse propagation in different neuron types for clarity."
       ],
       "topic_metadata": {
         "topic_accuracy": 50.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 2
       }
     },
     {
@@ -785,20 +832,21 @@
       "subject": "Zoology",
       "topic_name": "Neuron and nerves",
       "strength_insights": [
-        "Possesses foundational knowledge of neuron structural components and their functions, like Nissl's granules.",
-        "Correctly matched neuron parts to their roles, achieving 50% topic accuracy on structural aspects."
+        "Accurately matched neuron structures like Nissl's granules and dendrons with their specific functions.",
+        "Student understands the basic structural components of a neuron and their respective roles."
       ],
       "weakness_insights": [
-        "Misunderstood the direction of impulse transmission in dendrites, confusing afferent/efferent roles within a neuron.",
-        "Difficulty in critically evaluating statements regarding neuron function, leading to a conceptual error."
+        "Incorrectly stated that dendrites transmit impulses away from the cell body, revealing a conceptual error.",
+        "Confused the direction of nerve impulse transmission in dendrites, affecting multi-statement analysis."
       ],
       "learning_recommendations": [
-        "Clarify the direction of nerve impulse transmission in dendrites and axons with detailed diagrams.",
-        "Practice identifying the specific functions of each neuron part, including Nissl's granules, using flowcharts."
+        "Revise the precise function and direction of impulse transmission for dendrites versus axons using flowcharts.",
+        "Practice identifying correct and incorrect statements about neuron anatomy and impulse pathways through targeted drills."
       ],
       "topic_metadata": {
         "topic_accuracy": 50.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 2
       }
     },
     {
@@ -809,16 +857,17 @@
         "No strength insights can be generated for this topic due to insufficient correct-question data."
       ],
       "weakness_insights": [
-        "Struggled with identifying enzymes from diagrams, indicating a visual recognition gap for protein structures/functions.",
-        "Exhibited zero topic accuracy (0%) on enzyme-related questions, suggesting a fundamental conceptual weakness."
+        "Failed to correctly identify the protein functioning as an enzyme from the given diagrammatic representation.",
+        "Demonstrated a fundamental conceptual gap in visual identification or functional understanding of enzymes."
       ],
       "learning_recommendations": [
-        "Review basic enzyme structure, function, and visual representation, using diverse diagrams and models.",
-        "Practice identifying enzymes and their active sites in various biological diagrams with guided examples."
+        "Thoroughly review enzyme structure and function, focusing on how enzymes are represented diagrammatically.",
+        "Utilise diagrams and animations to understand enzyme-substrate interactions and active site characteristics."
       ],
       "topic_metadata": {
         "topic_accuracy": 0.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -826,19 +875,20 @@
       "subject": "Zoology",
       "topic_name": "Types of movement – ciliary, flagellar, muscular",
       "strength_insights": [
-        "Demonstrates accurate knowledge of muscle fibre types and their distinguishing characteristics (striation, control).",
-        "Consistently identified the correct incorrect statement, securing a perfect 100% topic accuracy."
+        "Accurately identified incorrect statement about muscle types, demonstrating strong conceptual clarity on cardiac muscles.",
+        "Student possesses a solid understanding of characteristics differentiating various muscle fibres and movements."
       ],
       "weakness_insights": [
         "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
       ],
       "learning_recommendations": [
-        "Practice advanced questions differentiating ciliary, flagellar, and muscular movements with functional examples.",
-        "Review molecular mechanisms underlying different muscle contractions to deepen conceptual understanding."
+        "Compare and contrast all types of muscular movement (skeletal, smooth, cardiac) with their histological features.",
+        "Practice application-based questions on ciliary and flagellar movements in different biological systems."
       ],
       "topic_metadata": {
         "topic_accuracy": 100.0,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 1
       }
     },
     {
@@ -846,20 +896,21 @@
       "subject": "Zoology",
       "topic_name": "Skeletal muscle – contractile proteins and muscle contraction",
       "strength_insights": [
-        "Understands the role of sarcoplasmic reticulum in calcium storage and visual representation of muscle contraction.",
-        "Accurately identified key components and stages in muscle contraction, achieving 66.67% topic accuracy."
+        "Accurately identified sarcoplasmic reticulum as muscle's calcium store and recognized muscle contraction diagrams.",
+        "Student understands key components and visual representation of muscle contraction stages."
       ],
       "weakness_insights": [
-        "Misconception about the specific binding sites covered by tropomyosin during muscle relaxation.",
-        "Struggled with the precise molecular interactions of contractile proteins, leading to a conceptual error."
+        "Misidentified which binding sites tropomyosin covers in a resting muscle fibre, confusing its regulatory role.",
+        "Conceptual error in the interaction between actin, myosin, troponin, and tropomyosin during muscle relaxation."
       ],
       "learning_recommendations": [
-        "Review the sliding filament theory with focus on molecular roles of actin, myosin, troponin, and tropomyosin.",
-        "Utilize animated models and diagrams to understand calcium's role and protein binding sites during contraction."
+        "Review the 'Sliding Filament Theory', specifically the roles of tropomyosin and troponin, using animations.",
+        "Practice labeling diagrams of sarcomeres and the precise binding interactions during contraction/relaxation."
       ],
       "topic_metadata": {
         "topic_accuracy": 66.67,
-        "attempt_ratio": 100.0
+        "attempt_ratio": 100.0,
+        "question_count": 3
       }
     },
     {
@@ -867,21 +918,1407 @@
       "subject": "Zoology",
       "topic_name": "Morphology, anatomy and functions of different systems of an insect (Frog)",
       "strength_insights": [
-        "Displays comprehensive knowledge of cockroach and frog anatomy/physiology, including unique adaptations like gaseous exchange.",
-        "Accurately identified morphological features, physiological processes, and correct/incorrect statements, contributing to 83.33% accuracy."
+        "Strong knowledge of cockroach anatomy (mouthparts, cerci) and frog physiology (respiration during dormancy, 83.33% accuracy).",
+        "Student correctly evaluated assertions on cockroach reproduction and identified incorrect statements about frog anatomy."
       ],
       "weakness_insights": [
-        "Skipped a question on frog's heart anatomy, indicating a potential knowledge gap or lack of confidence in specific details.",
-        "An attempt ratio of 83.33% suggests some hesitation, specifically regarding detailed anatomical statements in frog."
+        "Left a question on frog anatomy unattempted, indicating a potential knowledge gap or lack of confidence.",
+        "Did not attempt a question regarding specific facts about frog heart and nervous system (attempt_ratio 83.33%)."
       ],
       "learning_recommendations": [
-        "Revise detailed anatomy of frog's cardiac and nervous systems, focusing on specific structural locations.",
-        "Practice anatomical identification through diagrams and labeling exercises for both frog and cockroach."
+        "Thoroughly revise frog and cockroach anatomy and physiology, focusing on areas like heart structures and nervous system.",
+        "Practice a variety of fill-in-the-blanks and statement-based questions on frog systems to build confidence and accuracy."
       ],
       "topic_metadata": {
         "topic_accuracy": 83.33,
-        "attempt_ratio": 83.33
+        "attempt_ratio": 83.33,
+        "question_count": 6
       }
+    },
+    {
+      "test_name": "8",
+      "subject": "Physics",
+      "topic_name": "Electric flux",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Complete lack of attempt (attempt_ratio 0.0) suggests significant conceptual gap in Electric Flux.",
+        "Unattempted question on zero flux for parallel E-field indicates fundamental conceptual gap."
+      ],
+      "learning_recommendations": [
+        "Review fundamental electric flux definition, especially E-field and surface orientation, using visual aids.",
+        "Practice 8 scaffolded problems on electric flux, varying field angles and emphasizing zero-flux cases."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 0.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Electronic effects",
+      "strength_insights": [
+        "Demonstrates strong understanding of inductive effects on acid strength, achieving 100% accuracy.",
+        "Accurately determined stability order of resonating structures, showing solid conceptual clarity."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Leverage strong understanding by practicing advanced inductive and resonance effect problems.",
+        "Maintain 100% topic accuracy through periodic mixed-concept reviews within organic chemistry."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Preparation and reactions of alcohols",
+      "strength_insights": [
+        "Correctly identified products of alcohol reactions with HCl, indicating SN1 mechanism understanding.",
+        "Quickly identified alcohols reacting fastest with Lucas reagent, showing knowledge of tertiary alcohol reactivity."
+      ],
+      "weakness_insights": [
+        "Struggles significantly with alcohol dehydration mechanisms and major product prediction, reflected in 15.38% topic accuracy.",
+        "Exhibits conceptual gaps in alcohol preparation, oxidation reactions, and general characteristics, plus unattempted questions at 23.08%."
+      ],
+      "learning_recommendations": [
+        "Review alcohol dehydration mechanisms including rearrangements, then solve 10 scaffolded problems on product prediction.",
+        "Revisit alcohol preparation methods and oxidation reactions; complete 15 minutes of targeted mixed drills daily."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 15.38,
+        "attempt_ratio": 76.92,
+        "question_count": 13
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Phenols and ethers – properties and reactions",
+      "strength_insights": [
+        "Accurate in identifying the least acidic compounds, suggesting a good grasp of acidic strength in phenols.",
+        "Successfully determined products of key reactions involving ethyl iodide and phenols, indicating good reaction knowledge."
+      ],
+      "weakness_insights": [
+        "Struggles with predicting products for phenol reactions with specific reagents (e.g., sulfonation, nitration).",
+        "Confused about relative acidic strengths of different compounds beyond basic phenols, affecting 50% topic accuracy."
+      ],
+      "learning_recommendations": [
+        "Practice multi-step synthesis problems involving phenols (e.g., Kolbe, Reimer-Tiemann) for 20 minutes.",
+        "Review acidic properties of phenols and comparative acid strengths; solve 8 ranking problems on acidity."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 50.0,
+        "attempt_ratio": 100.0,
+        "question_count": 6
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Classification and structure",
+      "strength_insights": [
+        "Correctly classified tertiary alcohols based on structure, indicating fundamental knowledge of alcohol types.",
+        "Understands basic structural classification of organic compounds, as evidenced by accurate identification."
+      ],
+      "weakness_insights": [
+        "Struggles to differentiate between alcohols and non-alcohols based on functional groups, impacting 50% topic accuracy.",
+        "Shows a conceptual gap in identifying alcohol functional groups within various organic structures."
+      ],
+      "learning_recommendations": [
+        "Reinforce definitions and structural criteria for classifying alcohols and other functional groups using flashcards.",
+        "Practice identifying alcohol types (primary, secondary, tertiary) and non-alcohol compounds with 10 varied examples."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 50.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Isomerism",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Exhibits significant conceptual errors in identifying different types of isomerism, leading to 0% topic accuracy.",
+        "Unattempted 33.33% of isomerism questions, suggesting a notable lack of confidence or topic unfamiliarity."
+      ],
+      "learning_recommendations": [
+        "Thoroughly review all types of isomerism concepts (structural, stereoisomerism) with detailed examples.",
+        "Practice drawing and identifying isomers for given molecular formulas; solve 10 problems on structural isomers."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 66.67,
+        "question_count": 3
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Preparation and reactions",
+      "strength_insights": [
+        "Successfully identified reagents for specific organic reductions, showing good recall of reaction conditions.",
+        "Accurately selected reagents to convert carboxylic acids to alcohols, demonstrating knowledge of synthetic pathways."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Leverage strong understanding by practicing multi-step synthesis problems requiring reduction and conversion reactions.",
+        "Maintain 100% topic accuracy through periodic mixed-concept reviews of organic reaction mechanisms."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Electrochemical cells",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Unattempted the only question on electrochemical cells, resulting in 0% topic accuracy and 0% attempt ratio.",
+        "Indicates a complete lack of engagement or knowledge with molar conductivity calculations and concepts in this topic."
+      ],
+      "learning_recommendations": [
+        "Begin with a foundational review of conductivity, cell constant, and molar conductivity concepts.",
+        "Practice 5-7 numerical problems on calculating molar conductivity, using worked examples for guidance."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 0.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Stoichiometry",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Unattempted the only question on stoichiometry, resulting in 0% topic accuracy and 0% attempt ratio.",
+        "Suggests a significant gap in applying stoichiometric principles to gas mixture combustion problems."
+      ],
+      "learning_recommendations": [
+        "Review stoichiometry principles including combustion reactions and calculations involving gas mixtures.",
+        "Practice 5-7 similar problems involving combustion and gas volumes, focusing on balancing equations and mole concepts."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 0.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Atomic models",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Unattempted the only question on atomic models, resulting in 0% topic accuracy and 0% attempt ratio.",
+        "Highlights a lack of familiarity or confidence in questions related to spectral lines and energy levels in hydrogen atoms."
+      ],
+      "learning_recommendations": [
+        "Revisit concepts of hydrogen spectrum, energy levels, and calculating spectral lines for different regions.",
+        "Solve 5 numerical problems related to electronic transitions and visible region spectral lines in hydrogen."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 0.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Bond parameters",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Unattempted the only question on bond parameters, resulting in 0% topic accuracy and 0% attempt ratio.",
+        "Indicates a complete lack of engagement or understanding regarding sigma and pi bond counting in molecules."
+      ],
+      "learning_recommendations": [
+        "Review fundamental concepts of sigma and pi bonds and rules for counting them in various structures.",
+        "Practice identifying and counting sigma and pi bonds in 10 different organic and inorganic molecules."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 0.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Periodic trends",
+      "strength_insights": [
+        "Accurately assessed statements regarding ionization energies of elements, indicating a strong conceptual grasp.",
+        "Understands exceptions and specific trends in ionization energy across the periodic table, reflected in correct answers."
+      ],
+      "weakness_insights": [
+        "Struggles with comparative analysis of multiple periodic relations simultaneously, impacting 50% topic accuracy.",
+        "Demonstrates difficulty in identifying correct statements when multiple periodic trends are combined in a question."
+      ],
+      "learning_recommendations": [
+        "Review common periodic trends and their exceptions thoroughly, focusing on comparison-based questions.",
+        "Practice analyzing and comparing different periodic properties simultaneously, using tables or charts for reference."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 50.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Molecular orbital theory",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Shows conceptual errors in matching molecular orbital theory properties like bond order and paramagnetism, leading to 0% accuracy.",
+        "Struggles with applying MO theory to predict properties of diatomic molecules and ions effectively."
+      ],
+      "learning_recommendations": [
+        "Review molecular orbital theory for diatomic species, focusing on bond order, magnetic properties, and sigma/pi bonds.",
+        "Practice drawing MO diagrams and calculating bond order for 10 common diatomic molecules/ions."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Vitamins and hormones",
+      "strength_insights": [
+        "Correctly identified incorrect statements about vitamins and hormones, demonstrating good factual recall.",
+        "Possesses accurate knowledge of characteristics related to vitamins and hormones, achieving 100% topic accuracy."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Leverage strong recall by regularly reviewing biochemical facts related to vitamins and hormones for retention.",
+        "Integrate practice of fact-based questions from this topic into broader biology or biochemistry revision."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Ideal and non-ideal solutions",
+      "strength_insights": [
+        "Accurately determined the volume change in non-ideal solutions, indicating good conceptual understanding.",
+        "Understands the mixing properties and volume characteristics of non-ideal solutions (e.g., chloroform-acetone)."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Leverage strong understanding by practicing more complex problems involving non-ideal solution properties.",
+        "Maintain 100% topic accuracy through periodic review of concepts like positive/negative deviations and colligative properties."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Equilibrium constant",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Unattempted the only question on equilibrium constant, resulting in 0% topic accuracy and 0% attempt ratio.",
+        "Indicates a complete lack of engagement or knowledge regarding calculations involving equilibrium dissociation and pressure."
+      ],
+      "learning_recommendations": [
+        "Review the calculation of equilibrium constants (Kp/Kc) and dissociation percentages for gaseous reactions.",
+        "Practice 5-7 numerical problems involving initial/equilibrium pressures and percentage dissociation calculations."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 0.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Empirical and molecular formula",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Unattempted the only question on empirical and molecular formula, resulting in 0% topic accuracy and 0% attempt ratio.",
+        "Suggests a significant gap in applying elemental analysis data to determine molecular formulas."
+      ],
+      "learning_recommendations": [
+        "Review the concepts of empirical and molecular formula, and methods to calculate them from percentage composition.",
+        "Practice 5-7 numerical problems on determining molecular formula and number of atoms from percentage composition."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 0.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Electronic configuration",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Unattempted the only question on electronic configuration, resulting in 0% topic accuracy and 0% attempt ratio.",
+        "Highlights a lack of familiarity or confidence in questions related to matching elements with their atomic numbers."
+      ],
+      "learning_recommendations": [
+        "Review basic electronic configurations and atomic numbers of common and some less common elements.",
+        "Practice matching elements with their atomic numbers; use a periodic table for quick reference initially."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 0.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Integrated rate equations",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Struggles with understanding the relationship between half-life and reactant concentration for different reaction orders, resulting in 0% topic accuracy.",
+        "Exhibits a conceptual error in determining how doubling reactant concentration affects half-life of a reaction."
+      ],
+      "learning_recommendations": [
+        "Review the integrated rate equations and half-life concepts for zero, first, and second-order reactions.",
+        "Practice 8-10 problems comparing half-life changes with concentration changes for various reaction orders."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Le Chatelier’s principle",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Demonstrates conceptual errors in applying Le Chatelier’s principle to predict the effect of temperature on equilibrium, leading to 0% topic accuracy.",
+        "Confused about the impact of enthalpy change (exothermic/endothermic) on equilibrium shifts with temperature changes."
+      ],
+      "learning_recommendations": [
+        "Revisit Le Chatelier’s principle thoroughly, focusing on temperature effects for endothermic and exothermic reactions.",
+        "Practice 10 problems applying Le Chatelier’s principle to various equilibrium conditions, including concentration and pressure."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Oxidation number",
+      "strength_insights": [
+        "Accurately calculated the change in oxidation number for carbon in a given reaction, showing strong conceptual grasp.",
+        "Understands the rules for assigning and calculating oxidation numbers for elements in compounds and reactions."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Leverage strong understanding by practicing more complex redox reactions involving multiple elements and compounds.",
+        "Maintain 100% topic accuracy through periodic mixed-concept reviews of balancing redox reactions."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Nucleophilic substitution",
+      "strength_insights": [
+        "Correctly identified reaction conditions producing isonitrile as a major product, indicating knowledge of nucleophilic substitution variations.",
+        "Demonstrates accurate recall of specific reagents and products in alkyl halide nucleophilic substitution reactions."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Leverage strong understanding by practicing distinguishing between SN1/SN2 mechanisms and their products.",
+        "Maintain 100% topic accuracy by reviewing reagents and conditions for various nucleophilic substitution reactions."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Chemistry",
+      "topic_name": "Second law of thermodynamics",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Unattempted the only question on second law of thermodynamics, resulting in 0% topic accuracy and 0% attempt ratio.",
+        "Highlights a lack of familiarity or confidence in questions related to entropy change and its relation to temperature."
+      ],
+      "learning_recommendations": [
+        "Review the Second Law of Thermodynamics, focusing on entropy definitions and its relationship with temperature.",
+        "Practice 5 conceptual problems on entropy change, spontaneity, and Gibbs free energy for clarity."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 0.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Enzymes – types, properties, mechanism",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Significant conceptual gaps in enzyme properties and kinetics, indicated by 0.0% topic_accuracy.",
+        "Many questions unattempted (75% of questions), suggesting a lack of foundational understanding in enzyme function and cofactors."
+      ],
+      "learning_recommendations": [
+        "Thoroughly review basic enzyme properties, types, and cofactors using foundational texts and solved examples.",
+        "Practice conceptual questions on enzyme mechanism and Michaelis-Menten kinetics for 20 minutes daily."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 25.0,
+        "question_count": 4
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Structure and function of carbohydrates, proteins, lipids, nucleic acids",
+      "strength_insights": [
+        "Accurately identified structural similarity of glycogen and products of lipid hydrolysis.",
+        "Demonstrated basic understanding of biomolecule properties, achieving 50% topic_accuracy."
+      ],
+      "weakness_insights": [
+        "Misconception regarding ideal storage properties of carbohydrates like starch (Q93).",
+        "Unattempted question on triglycerides indicates incomplete understanding of lipid classification."
+      ],
+      "learning_recommendations": [
+        "Review properties of starch as storage material, focusing on chemical inertness and osmotic activity.",
+        "Practice identification of different lipid types, like triglycerides, and their defining characteristics for 15 minutes."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 50.0,
+        "attempt_ratio": 75.0,
+        "question_count": 4
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Meiosis",
+      "strength_insights": [
+        "Strong understanding of key events like synapsis, crossing over, and bivalent structure, with 66.67% topic_accuracy.",
+        "Accurately identified general events occurring in different phases of meiosis."
+      ],
+      "weakness_insights": [
+        "Struggled with quantitative aspects like chromatid number changes at Meiosis I end.",
+        "Confused specific terminologies for meiotic stages, such as the stage following complete synapsis."
+      ],
+      "learning_recommendations": [
+        "Drill on ploidy and chromatid counts during meiosis stages; solve 5 numerical problems.",
+        "Revise precise terminology for all meiotic substages, using flowcharts and mnemonic devices."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 66.67,
+        "attempt_ratio": 100.0,
+        "question_count": 6
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Phases of cell cycle",
+      "strength_insights": [
+        "Demonstrated perfect understanding of cell cycle phases, achieving 100% topic_accuracy.",
+        "Accurately identified key processes within a specific cell cycle stage."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Maintain conceptual clarity on cell cycle phases by reviewing key regulatory checkpoints.",
+        "Practice solving advanced application questions related to cell cycle control mechanisms."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Mitosis",
+      "strength_insights": [
+        "Demonstrated perfect understanding of mitosis, achieving 100% topic_accuracy.",
+        "Accurately identified the attachment point for spindle fibres during mitosis."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Maintain strong conceptual understanding by regularly reviewing each stage of mitosis.",
+        "Integrate knowledge of mitosis with related topics like cell cycle regulation for holistic learning."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Factors affecting photosynthesis",
+      "strength_insights": [
+        "Demonstrated perfect understanding of factors affecting photosynthesis, achieving 100% topic_accuracy.",
+        "Accurately identified incorrect statements related to photosynthesis influencing factors."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Maintain strong understanding by quick revision of limiting factors and their impact on photosynthesis rate.",
+        "Practice complex scenario-based problems involving multiple factors affecting photosynthesis simultaneously."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "C3 and C4 pathways",
+      "strength_insights": [
+        "Demonstrated perfect understanding of C3/C4 pathways, achieving 100% topic_accuracy.",
+        "Accurately identified the primary CO2 acceptor in C4 photosynthesis."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Continue reinforcing C3 and C4 pathway concepts, especially enzyme locations and functions.",
+        "Practice distinguishing between C3 and C4 plants based on anatomical and physiological differences."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Photosynthesis – site and pigments",
+      "strength_insights": [
+        "Demonstrated perfect understanding of photosynthesis site and pigments, achieving 100% topic_accuracy.",
+        "Accurately identified specific conditions where oxygen is not produced during photosynthesis."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Maintain strong understanding of pigment roles and the exact locations of photosynthesis reactions.",
+        "Explore diverse photosynthetic organisms, noting variations in pigments and oxygenic/anoxygenic processes."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Light reaction",
+      "strength_insights": [
+        "Demonstrated perfect understanding of light reaction products and electron transfer mechanisms, with 100% topic_accuracy.",
+        "Accurately identified the role of plastoquinone in electron transport during light reactions."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Reinforce knowledge of all components and steps in the light-dependent reactions of photosynthesis.",
+        "Practice tracing electron flow in cyclic and non-cyclic photophosphorylation, including intermediate molecules."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Photorespiration",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Significant conceptual error regarding the products of RuBisCo oxygenation activity in photorespiration.",
+        "Complete lack of accuracy in this topic, with 0.0% topic_accuracy."
+      ],
+      "learning_recommendations": [
+        "Thoroughly review the photorespiration pathway, focusing on RuBisCo's dual nature and immediate products.",
+        "Compare photorespiration with photosynthesis and C4 pathway advantages through diagrammatic representation."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Glycolysis",
+      "strength_insights": [
+        "Demonstrated perfect understanding of glycolysis pathway, including common steps and net gain, with 100% topic_accuracy.",
+        "Accurately identified electron/hydrogen atom fate during PGALD oxidation."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Maintain excellent understanding of glycolysis by regularly reviewing all steps and energy yields.",
+        "Practice problem-solving on metabolic regulation and connecting glycolysis with other energy pathways."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 3
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "TCA cycle",
+      "strength_insights": [
+        "Good grasp of FAD's role as an electron acceptor and the yield per TCA cycle turn.",
+        "Demonstrated conceptual understanding in 2 out of 3 questions, achieving 66.67% topic_accuracy."
+      ],
+      "weakness_insights": [
+        "Incorrectly identified the starting substrate for the Krebs cycle, indicating a foundational gap.",
+        "A specific error in recalling the initial input molecule for the cycle."
+      ],
+      "learning_recommendations": [
+        "Review the entry point and initial substrate of the Krebs cycle, using visual aids for 10 minutes.",
+        "Practice tracing molecules through the entire TCA cycle, ensuring all intermediates and products are clear."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 66.67,
+        "attempt_ratio": 100.0,
+        "question_count": 3
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Phases of growth",
+      "strength_insights": [
+        "Demonstrated perfect understanding of plant growth phases, achieving 100% topic_accuracy.",
+        "Accurately identified the correct sequence of different growth phases."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Maintain strong conceptual clarity on the distinct stages and characteristics of plant growth.",
+        "Practice relating growth phases to specific physiological processes occurring in plants."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Growth and development",
+      "strength_insights": [
+        "Demonstrated perfect understanding of growth differences between plants and animals, with 100% topic_accuracy.",
+        "Accurately identified a key distinguishing characteristic of plant growth compared to animal growth."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Reinforce knowledge of factors influencing plant growth and developmental plasticity.",
+        "Explore practical applications of growth and development principles in agriculture and horticulture."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Growth rate",
+      "strength_insights": [
+        "Excellent grasp of various growth rate concepts, including arithmetic and geometrical growth curves.",
+        "Accurately applied mathematical expressions and interpreted graphs related to different growth phases, achieving 100% topic_accuracy."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Maintain strong computational skills for actual and relative growth rate problems, with timed practice.",
+        "Practice interpreting diverse growth curve graphs and their underlying biological significance for 15 minutes."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 7
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Growth regulators – auxin, gibberellin, cytokinin, ethylene, ABA",
+      "strength_insights": [
+        "Strong knowledge of plant growth regulators, their functions, and specific examples, achieving 100% topic_accuracy.",
+        "Accurately matched plant hormones with their characteristic roles and chemical identities."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Continue to master the specific roles of each growth regulator, focusing on synergistic and antagonistic effects.",
+        "Practice case studies on the practical applications of plant hormones in agricultural practices for 20 minutes."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 3
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Pollination – types and agents",
+      "strength_insights": [
+        "Good understanding of pollen-pistil interaction and types of flowers (chasmogamous/cleistogamous).",
+        "Demonstrated knowledge of specific plant reproductive adaptations, achieving 66.67% topic_accuracy."
+      ],
+      "weakness_insights": [
+        "Misconception regarding the impact of autogamy on genetic variation compared to xenogamy.",
+        "Failed to differentiate the genetic outcomes of self-pollination versus cross-pollination."
+      ],
+      "learning_recommendations": [
+        "Review genetic implications of different pollination types, especially how autogamy limits variation.",
+        "Practice comparing genetic outcomes of autogamy, geitonogamy, and xenogamy using comparative tables."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 66.67,
+        "attempt_ratio": 100.0,
+        "question_count": 3
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Botany",
+      "topic_name": "Seed and fruit formation",
+      "strength_insights": [
+        "Accurately classified seeds based on the presence of endosperm.",
+        "Demonstrated some understanding of seed structure and terminology, with 50% topic_accuracy."
+      ],
+      "weakness_insights": [
+        "Incorrectly identified instances where perisperm (residual nucellus) is observed.",
+        "Showed a specific knowledge gap in identifying seed structures like perisperm."
+      ],
+      "learning_recommendations": [
+        "Revise specific seed structures like perisperm, focusing on defining characteristics and plant examples.",
+        "Use diagrams to differentiate between endosperm, perisperm, and cotyledon functions in seed nutrition."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 50.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Cardiac cycle, cardiac output, ECG",
+      "strength_insights": [
+        "Correctly identified pressure changes initiating ventricular ejection and valve function.",
+        "Demonstrates good understanding of cardiac cycle pressure dynamics and their consequences."
+      ],
+      "weakness_insights": [
+        "Struggles with interpreting cardiac cycle stages from given visual representations.",
+        "Misidentified sequences of cardiac events, indicating a conceptual gap in cycle phases."
+      ],
+      "learning_recommendations": [
+        "Review cardiac cycle phases using flowcharts and focus on visual interpretation.",
+        "Practice identifying correct sequences of cardiac events from diagrams for 15 minutes."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 50.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Exchange of gases, transport of gases and regulation of respiration",
+      "strength_insights": [
+        "Excellent understanding of haemoglobin's affinity for different gases, topic_accuracy 100%.",
+        "Successfully answered conceptual questions related to gas transport in blood."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Continue reinforcing gas transport concepts, focusing on related physiological regulations.",
+        "Engage with advanced questions on gas exchange mechanisms to maintain proficiency."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Mechanism of breathing and its regulation in humans",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Misidentified the origin of nerve impulses regulating breathing mechanisms.",
+        "Indicates a fundamental conceptual gap in respiratory control, topic_accuracy 0%."
+      ],
+      "learning_recommendations": [
+        "Review neural control of respiration, focusing on specific brain regions.",
+        "Practice identifying nerve impulse origins for breathing regulation."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Skeletal system and its functions",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Struggles with factual recall regarding vertebral column structure and features.",
+        "Misidentified correct statements about skeletal system anatomy, topic_accuracy 0%."
+      ],
+      "learning_recommendations": [
+        "Thoroughly revise vertebral column structure and functions using diagrams.",
+        "Practice identifying correct and incorrect statements about skeletal anatomy."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Skeletal muscle – contractile proteins and muscle contraction",
+      "strength_insights": [
+        "Strong understanding of muscle contraction initiation and motor unit concepts.",
+        "Accurately identified correct statements about skeletal muscle physiology, topic_accuracy 100%."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Continue building on muscle contraction knowledge with advanced physiological processes.",
+        "Explore complex muscle disorders to deepen conceptual understanding."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Urine formation, osmoregulation",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Incorrectly identified substances completely reabsorbed in the renal tubule.",
+        "Indicates a gap in understanding selective reabsorption during urine formation, topic_accuracy 0%."
+      ],
+      "learning_recommendations": [
+        "Review complete reabsorption mechanisms in renal tubules, focusing on essential substances.",
+        "Practice identifying which substances are fully reabsorbed during urine formation."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Human excretory system – structure and function",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Struggles to identify incorrect factual statements about the excretory system.",
+        "Suggests a lack of precise knowledge regarding system structure and function, topic_accuracy 0%."
+      ],
+      "learning_recommendations": [
+        "Thoroughly revise structure and functions of each excretory organ.",
+        "Practice identifying incorrect statements about excretory system facts."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Nervous system in humans – central nervous system, peripheral nervous system and visceral nervous system",
+      "strength_insights": [
+        "Excellent understanding of association areas and overall brain anatomy, topic_accuracy 100%.",
+        "Successfully identified brain parts and functions from diagrammatic representation."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Leverage strong conceptual knowledge by practicing complex clinical case studies.",
+        "Continue reviewing neural pathways and their functions to maintain high accuracy."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Human endocrine system – hypothalamus, pituitary, pineal, thyroid, parathyroid, adrenal, pancreas, gonads",
+      "strength_insights": [
+        "Accurately identified the hormonal function related to alveolar growth in mammary glands.",
+        "Demonstrates strong recall of specific endocrine gland functions, topic_accuracy 100%."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Reinforce knowledge of specific hormone actions by creating flashcards and concept maps.",
+        "Practice questions on endocrine feedback loops to solidify understanding."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Endocrine glands and hormones",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Misunderstood the fundamental nature and quantity of hormone production.",
+        "Struggles with assertion-reason type questions regarding hormone characteristics, topic_accuracy 0%."
+      ],
+      "learning_recommendations": [
+        "Clarify basic definitions and characteristics of hormones as messengers.",
+        "Practice assertion-reason questions on hormone nature and production."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Birth control – need and methods, contraception and medical termination of pregnancy (MTP)",
+      "strength_insights": [
+        "Strong knowledge of oral contraceptive usage protocols and lactational amenorrhea.",
+        "Accurately recalled specific details about birth control methods, topic_accuracy 100%."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Maintain high accuracy by reviewing diverse contraceptive methods and their mechanisms.",
+        "Apply knowledge to scenario-based questions involving family planning strategies."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Male and female reproductive systems",
+      "strength_insights": [
+        "No strength insights can be generated for this topic due to insufficient correct-question data."
+      ],
+      "weakness_insights": [
+        "Misidentified correct statements about male reproductive system anatomy and physiology.",
+        "Indicates specific conceptual gaps in reproductive organ structure, topic_accuracy 0%."
+      ],
+      "learning_recommendations": [
+        "Thoroughly revise structural and functional aspects of male reproductive organs.",
+        "Practice identifying correct statements about reproductive system anatomy and physiology."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 0.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Lactation",
+      "strength_insights": [
+        "Accurately understands the anatomy and physiology of milk flow during lactation.",
+        "Demonstrates strong conceptual clarity regarding mammary gland structures, topic_accuracy 100%."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Leverage understanding of lactation physiology to explore related hormonal regulation.",
+        "Attempt higher-order thinking questions on milk synthesis and ejection mechanisms."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Gametogenesis – spermatogenesis and oogenesis",
+      "strength_insights": [
+        "Competent in calculating gamete production from spermatogonium and oogonium.",
+        "Understands inheritance patterns of X-linked disorders, with topic_accuracy 66.67%."
+      ],
+      "weakness_insights": [
+        "Struggles to correctly identify haploid structures within gametogenesis stages.",
+        "Confusion persists regarding ploidy levels of various reproductive cells."
+      ],
+      "learning_recommendations": [
+        "Focus on ploidy levels of cells during spermatogenesis and oogenesis using diagrams.",
+        "Practice identifying haploid/diploid stages in gamete formation with focused drills."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 66.67,
+        "attempt_ratio": 100.0,
+        "question_count": 3
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Processes of recombinant DNA technology",
+      "strength_insights": [
+        "Strong grasp of PCR, gel electrophoresis, and bioreactor principles, topic_accuracy 82.35%.",
+        "Understands application of enzymes and separation techniques in rDNA technology."
+      ],
+      "weakness_insights": [
+        "Misconception regarding PCR's in vitro nature and Thermus aquaticus enzyme source.",
+        "Skipped continuous culture questions, suggesting knowledge gap (attempt_ratio 88.24%)."
+      ],
+      "learning_recommendations": [
+        "Clarify PCR methodology, specifically its in vitro nature and enzyme origins.",
+        "Review continuous culture systems in bioreactors; use diagrams and practice questions."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 82.35,
+        "attempt_ratio": 88.24,
+        "question_count": 17
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Tools of recombinant DNA technology",
+      "strength_insights": [
+        "Accurately identified mispaired tools in recombinant DNA technology, topic_accuracy 100%.",
+        "Demonstrates precise knowledge of various tools and their specific uses."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Maintain strong understanding by applying tools knowledge to practical biotechnology scenarios.",
+        "Practice advanced questions requiring integration of multiple rDNA tools and their applications."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Genetic engineering (Recombinant DNA technology)",
+      "strength_insights": [
+        "Accurately recalled the historical pioneers of recombinant DNA technology.",
+        "Demonstrates strong retention of foundational facts in genetic engineering, topic_accuracy 100%."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Reinforce historical context by linking it to current advancements in genetic engineering.",
+        "Explore ethical implications and societal impacts of foundational discoveries."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Cloning vectors",
+      "strength_insights": [
+        "Accurately identified restriction sites within pBR322 cloning vector.",
+        "Possesses precise knowledge of cloning vector components and features, topic_accuracy 100%."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Deepen understanding of different cloning vectors and their specific applications.",
+        "Practice designing cloning strategies using various vectors and restriction enzymes."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Salient features and classification of animals",
+      "strength_insights": [
+        "Correctly identified organisms with heterogametic females in terms of sex chromosomes.",
+        "Demonstrates clear understanding of sex determination mechanisms, topic_accuracy 100%."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Reinforce knowledge of diverse sex determination systems across animal phyla.",
+        "Practice comparative analysis of classification features for different animal groups."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Basic concepts of immunology – vaccines",
+      "strength_insights": [
+        "Accurately identified the location of the antigen binding site in an antibody.",
+        "Possesses fundamental knowledge of antibody structure and function, topic_accuracy 100%."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Expand knowledge to different antibody classes and their immune roles.",
+        "Study mechanisms of vaccine action and types of immunity for comprehensive grasp."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Cancer, HIV and AIDS",
+      "strength_insights": [
+        "Correctly identified radiation therapy as a method for lethal tumor cell irradiation.",
+        "Understands specific cancer treatment modalities, with topic_accuracy 50%."
+      ],
+      "weakness_insights": [
+        "Misclassified radiations causing DNA damage leading to neoplastic transformation.",
+        "Confusion exists between types of radiations and their carcinogenic effects."
+      ],
+      "learning_recommendations": [
+        "Review types of carcinogens, focusing on ionizing vs. non-ionizing radiations.",
+        "Practice differentiating radiation types and their specific DNA damage mechanisms."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 50.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Pathogens – parasites causing human diseases (malaria, dengue, chikungunya, filariasis, ascariasis, typhoid, pneumonia, common cold, amoebiasis, ring worm)",
+      "strength_insights": [
+        "Accurately identified the timing of malaria symptoms related to Plasmodium's life cycle.",
+        "Demonstrates precise recall of disease progression for parasitic infections, topic_accuracy 100%."
+      ],
+      "weakness_insights": [
+        "No weakness insights can be generated for this topic due to insufficient incorrect-question data."
+      ],
+      "learning_recommendations": [
+        "Leverage strong understanding by studying the life cycles and pathogenicity of other parasites.",
+        "Practice questions on host-pathogen interactions for various human diseases."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 100.0,
+        "attempt_ratio": 100.0,
+        "question_count": 1
+      }
+    },
+    {
+      "test_name": "8",
+      "subject": "Zoology",
+      "topic_name": "Adolescence and drug/alcohol abuse",
+      "strength_insights": [
+        "Correctly identified the plant source of a chemical compound, indicating good recall.",
+        "Understands plant-derived drug origins, with topic_accuracy 50%."
+      ],
+      "weakness_insights": [
+        "Struggles to identify specific drugs based on their described physiological effects.",
+        "Indicates a conceptual gap in classifying drugs by their impact on the body."
+      ],
+      "learning_recommendations": [
+        "Review classification and physiological effects of various abusable drugs.",
+        "Practice matching drug descriptions with their specific names and plant sources."
+      ],
+      "topic_metadata": {
+        "topic_accuracy": 50.0,
+        "attempt_ratio": 100.0,
+        "question_count": 2
+      }
+    }
+  ],
+  "pattern_insights": [
+    {
+      "insight": "Consistent conceptual and calculation gaps in fundamental quantitative chemistry and physics concepts.",
+      "recommendation": "Systematically review definitions, formulas, and calculation methods for basic mole concepts and thermodynamics.",
+      "citation": "Based on Test 7-8: Stoichiometry (0% acc, 0% att in T8), Bond Parameters (0% acc, 0% att), Equilibrium Constant (0% acc, 0% att), Second Law (0% acc, 0% att), Electric Flux (0% acc, 0% att)."
+    },
+    {
+      "insight": "Persistent difficulty with organic reaction mechanisms, particularly alcohol dehydration and product prediction.",
+      "recommendation": "Practice detailed step-by-step mechanism tracing for alcohols, focusing on carbocation rearrangements and oxidation.",
+      "citation": "Based on Test 7: Preparation and reactions of alcohols (0% acc, 0% att); Test 8: Preparation and reactions of alcohols (15.38% acc, 76.92% att, struggled with dehydration)."
+    },
+    {
+      "insight": "Significant and persistent conceptual confusion regarding various types of isomerism.",
+      "recommendation": "Thoroughly review isomerism definitions using visual aids; practice drawing and categorizing isomer structures.",
+      "citation": "Based on Test 7: Isomerism (0% acc, 0% att); Test 8: Isomerism (0% acc, 66.67% att, 33.33% unattempted)."
+    },
+    {
+      "insight": "Recurring fundamental conceptual errors in enzyme function and key metabolic pathway details.",
+      "recommendation": "Review enzyme mechanisms and core metabolic pathways (e.g., TCA cycle, photorespiration) using detailed flowcharts.",
+      "citation": "Based on Test 7: Enzymes (Zoology, 0% acc); Test 8: Enzymes (Botany, 0% acc, 25% att), Photorespiration (0% acc), TCA Cycle (missed starting substrate)."
+    },
+    {
+      "insight": "Difficulty recalling specific details and applying concepts in various human physiology systems.",
+      "recommendation": "Utilize detailed diagrams and functional flowcharts to review human body systems and their regulation mechanisms.",
+      "citation": "Based on Test 7: Nerve Impulse (50% acc, Nodes of Ranvier); Test 8: Breathing Mechanism (0% acc), Excretory System (0% acc), Male Reproductive System (0% acc)."
     }
   ]
 }

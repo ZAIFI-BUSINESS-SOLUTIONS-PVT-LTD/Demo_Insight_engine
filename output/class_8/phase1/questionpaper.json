@@ -1,0 +1,1868 @@
+{
+    "questions": [
+        {
+            "question_number": 26,
+            "question_text": "A square surface of side L metre in the plane of the paper is placed in a uniform electric field E (V/m) acting along the same place at an angle \uf071 with the horizontal side of the square as shown in figure. The electric flux linked to the surface in unit of V-m, is",
+            "options": [
+                "(a) EL2",
+                "(b) EL2 cos\uf071",
+                "(c) EL2 sin\uf071",
+                "(d) 0"
+            ],
+            "question_id": "Q26",
+            "subject": "Physics",
+            "chapter": "Electric Charges and Fields",
+            "topic": "Electric flux"
+        },
+        {
+            "question_number": 46,
+            "question_text": "CH2ClCH2OH is stronger acid than CH3CH2OH because:",
+            "options": [
+                "(1) +\ud835\udc3c\ud835\udc38 of Cl disperses \u2013 ve chare on O \u2013atom to produce more stable anion",
+                "(2) \u2212\ud835\udc3c\ud835\udc38 of Cl disperses \u2013 ve charge on O \u2013atom to produce more stable anion",
+                "(3) +\ud835\udc3c\ud835\udc38 of Cl increases \u2013 ve charge on O \u2013atom to alcohol",
+                "(4) None of the above"
+            ],
+            "question_id": "Q46",
+            "subject": "Chemistry",
+            "chapter": "Organic Chemistry \u2013 Some Basic Principles and Techniques",
+            "topic": "Electronic effects"
+        },
+        {
+            "question_number": 47,
+            "question_text": "Alcohol (CH3)2CHCH2OH cannot be obtained by",
+            "options": [
+                "(1) HCHO + (CH3)2CHCH2Mg\ud835\udc4b",
+                "(2) ",
+                "(3) (CH3)2CHCH2CH2Mg\ud835\udc4b+ O2 air",
+                "(4) (CH3)2CHCHO + CH3Mg\ud835\udc4b"
+            ],
+            "question_id": "Q47",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 48,
+            "question_text": "Which one of the following will most readily be dehydrated in acidic condition?",
+            "options": [
+                "(1) ",
+                "(2) ",
+                "(3) ",
+                "(4) "
+            ],
+            "question_id": "Q48",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 49,
+            "question_text": "Ethyl alcohol reacts with following to form a compound of fruity smell:",
+            "options": [
+                "(1) PCl5",
+                "(2) K2Cr2O7 + H2SO4",
+                "(3) CH3COOH",
+                "(4) CH3COCH3"
+            ],
+            "question_id": "Q49",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 50,
+            "question_text": "2-methyl-2-butanol on treatment with HCl gives predominantly",
+            "options": [
+                "(1) 2-chloro-3-methylbutane",
+                "(2) 2,2-dimethylpentane",
+                "(3) 2-chloro-2-methylbutane",
+                "(4) 1-chloro-2-methylbutane"
+            ],
+            "question_id": "Q50",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 51,
+            "question_text": "Which of the following reacts fastest with a mixture of anhydrous ZnCI2 and conc. HCI?",
+            "options": [
+                "(1) Trimethyl carbinol",
+                "(2) Ethanol",
+                "(3) Propanol",
+                "(4) Methanol"
+            ],
+            "question_id": "Q51",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 52,
+            "question_text": "The product in the given reaction is:",
+            "options": [
+                "(1) ",
+                "(2) ",
+                "(3) ",
+                "(4) "
+            ],
+            "question_id": "Q52",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Phenols and ethers \u2013 properties and reactions"
+        },
+        {
+            "question_number": 53,
+            "question_text": "The correct order of ease of dehydration of following is",
+            "options": [
+                "(1) I > II > III",
+                "(2) III > II > I",
+                "(3) I > III > II",
+                "(4) III > I > II"
+            ],
+            "question_id": "Q53",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 54,
+            "question_text": "The major product in the reaction of PhCH2CH(OH)CH(CH3)2 with concentrated H2SO4 is",
+            "options": [
+                "(1) "
+            ],
+            "question_id": "Q54",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 55,
+            "question_text": "Which is not an alcohol?",
+            "options": [
+                "(1) CH2=CHCH2OH",
+                "(2) CH2OHCH2OH",
+                "(3) C6H5CH2OH",
+                "(_4) C6H5OH"
+            ],
+            "question_id": "Q55",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Classification and structure"
+        },
+        {
+            "question_number": 56,
+            "question_text": "Which of the following is tertiary alcohol?",
+            "options": [
+                "(1) CH3\u2014CH2\u2014 OH",
+                "(2) [Image/Diagram]",
+                "(3) [Image/Diagram]",
+                "(4) [Image/Diagram]"
+            ],
+            "question_id": "Q56",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Classification and structure"
+        },
+        {
+            "question_number": 57,
+            "question_text": "Among the following, which is least acidic?",
+            "options": [
+                "(1) Phenol",
+                "(2) o-cresol",
+                "(3) p-nitrophenol",
+                "(4) p-chlorophenol"
+            ],
+            "question_id": "Q57",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Phenols and ethers \u2013 properties and reactions"
+        },
+        {
+            "question_number": 58,
+            "question_text": "The dehydration of neo-pentanol gives mainly:",
+            "options": [
+                "(1) [Image/Diagram]",
+                "(2) [Image/Diagram]",
+                "(3) [Image/Diagram]",
+                "(4) None of the above"
+            ],
+            "question_id": "Q58",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 59,
+            "question_text": "Phenol, when it first reacts with concentrated sulphuric acid and then with concentrated nitric acid, gives",
+            "options": [
+                "(1) 2, 4, 6-trinitrobenzene",
+                "(2) o-nitrophenol",
+                "(3) p-nitrophenol",
+                "(4) Nitrobenzene"
+            ],
+            "question_id": "Q59",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Phenols and ethers \u2013 properties and reactions"
+        },
+        {
+            "question_number": 60,
+            "question_text": "The order of reactivity of the following alcohols",
+            "options": [
+                "(1) I > \ud835\udc3c\ud835\udc3c> \ud835\udc3c\ud835\udc3c\ud835\udc3c> \ud835\udc3c\ud835\udc49",
+                "(2) I > \ud835\udc3c\ud835\udc3c\ud835\udc3c> \ud835\udc3c\ud835\udc3c> \ud835\udc3c\ud835\udc49",
+                "(3) IV > \ud835\udc3c\ud835\udc3c\ud835\udc3c> \ud835\udc3c\ud835\udc3c> \ud835\udc3c",
+                "(4) IV > \ud835\udc3c\ud835\udc3c\ud835\udc3c> \ud835\udc3c> \ud835\udc3c\ud835\udc3c"
+            ],
+            "question_id": "Q60",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 61,
+            "question_text": "How many structural isomers are known for C4H10O ?",
+            "options": [
+                "(1) 4",
+                "(2) 3",
+                "(3) 6",
+                "(4) 7"
+            ],
+            "question_id": "Q61",
+            "subject": "Chemistry",
+            "chapter": "Organic Chemistry \u2013 Some Basic Principles and Techniques",
+            "topic": "Isomerism"
+        },
+        {
+            "question_number": 62,
+            "question_text": "Amongst the following, HBr reacts fastest with",
+            "options": [
+                "(1) Propane-1-ol",
+                "(2) Propane-2-ol",
+                "(3) 2-methyl propane-1-ol",
+                "(4) 2-methyl propane-2-ol"
+            ],
+            "question_id": "Q62",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 63,
+            "question_text": "Ethyl iodide on treatment with dry Ag2O will yield:",
+            "options": [
+                "(1) Ethyl alcohol",
+                "(2) Diethyl ether",
+                "(3) Ethyl methyl ether",
+                "(4) Ethylene"
+            ],
+            "question_id": "Q63",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Phenols and ethers \u2013 properties and reactions"
+        },
+        {
+            "question_number": 64,
+            "question_text": "Which of the following compounds is weakest acid?",
+            "options": [
+                "(1) [Image/Diagram]",
+                "(2) [Image/Diagram]"
+            ],
+            "question_id": "Q64",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Phenols and ethers \u2013 properties and reactions"
+        },
+        {
+            "question_number": 65,
+            "question_text": "In the reaction, \ud835\udc34 K2Cr2O7 \u2192 H2SO4 acetone Oxidation \u2192 acetic acid, \ud835\udc34 is",
+            "options": [
+                "(1) 1-propanol",
+                "(2) 2-butanol",
+                "(3) 2-propanol",
+                "(4) Ethanol"
+            ],
+            "question_id": "Q65",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 66,
+            "question_text": "C4H10Ogives white precipitate within 5 min with concentrated hydrochloric acid in the presence of amhydrous zinc chloride. Alcohol can be",
+            "options": [],
+            "question_id": "Q66",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 67,
+            "question_text": "The reduction, Can be achieved by using",
+            "options": [
+                "(1) NaBH4",
+                "(2) LiAlH4",
+                "(3) CuO \u2219CuCN2O4",
+                "(4) None of these"
+            ],
+            "question_id": "Q67",
+            "subject": "Chemistry",
+            "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+            "topic": "Preparation and reactions"
+        },
+        {
+            "question_number": 68,
+            "question_text": "Which of the following reagents can convert acetic acid into ethanol?",
+            "options": [
+                "(1) Sn + HCl",
+                "(2) H2 + Pt",
+                "(3) LiAlH4 +ether",
+                "(4) Na + alcohol"
+            ],
+            "question_id": "Q68",
+            "subject": "Chemistry",
+            "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+            "topic": "Preparation and reactions"
+        },
+        {
+            "question_number": 69,
+            "question_text": "Which one of the following is not the characteristic of the alcohols?",
+            "options": [
+                "(1) Their boiling points rise fairly uniformly with a rise in molecular weight",
+                "(2) Lower members have a pleasant smell but burning taste and the higher ones are odourless and tasteless",
+                "(3) There are lighter than water",
+                "(4) Lower members are insoluble in water and organic solvents but the solubility goes on increasing with the rise of molecular weight"
+            ],
+            "question_id": "Q69",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Preparation and reactions of alcohols"
+        },
+        {
+            "question_number": 70,
+            "question_text": "Phenol 1.NaOH \u2192 2.CO2/140\u2103 \ud835\udc34 H+/H2O \u2192 \ud835\udc35 Ac2O \u2192 \ud835\udc36 In this reaction, the end product \ud835\udc36 is",
+            "options": [
+                "(1) Salicylaldehyde",
+                "(2) Salicylic acid",
+                "(3) Phenyl acetate",
+                "(4) Aspirin"
+            ],
+            "question_id": "Q70",
+            "subject": "Chemistry",
+            "chapter": "Alcohols, Phenols and Ethers",
+            "topic": "Phenols and ethers \u2013 properties and reactions"
+        },
+        {
+            "question_number": 71,
+            "question_text": "A 0.01M NaOH solution offered a resistance of 30 ohm in a conductivity cell. If the cell constant is 0.30 cm\u20131, what is the molar conductivity of NaOH at this concentration?",
+            "options": [
+                "(1) 1000 ohm\u20131cm2 mol\u20131",
+                "(2) 2000 ohm\u20131cm2 mol\u20131",
+                "(3) 500 ohm\u20131cm2 mol\u20131",
+                "(4) 100 ohm\u20131cm2 mol\u20131"
+            ],
+            "question_id": "Q71",
+            "subject": "Chemistry",
+            "chapter": "Electrochemistry",
+            "topic": "Electrochemical cells"
+        },
+        {
+            "question_number": 72,
+            "question_text": "A 4 L gas mixture of propane and butane on complete combustion at 25\u00b0C produced 14 L CO2. The composition ratio of propane to butane is:",
+            "options": [
+                "(1) 2 : 3",
+                "(2) 1 : 2",
+                "(3) 1 : 4",
+                "(4) 1 : 1"
+            ],
+            "question_id": "Q72",
+            "subject": "Chemistry",
+            "chapter": "Some Basic Concepts of Chemistry",
+            "topic": "Stoichiometry"
+        },
+        {
+            "question_number": 73,
+            "question_text": "How many spectral lines are observed for a hydrogen atom in the visible region when the electron transitions takes place from seventh energy level to the energy level having \u201313.6 eV energy:",
+            "options": [
+                "(1) 21",
+                "(2) 6",
+                "(3) 5",
+                "(4) 12"
+            ],
+            "question_id": "Q73",
+            "subject": "Chemistry",
+            "chapter": "Structure of Atom",
+            "topic": "Atomic models"
+        },
+        {
+            "question_number": 74,
+            "question_text": "Let 'x' the number of sigma bonds and 'y' be the number of pi bonds that are present in",
+            "options": [],
+            "question_id": "Q74",
+            "subject": "Chemistry",
+            "chapter": "Chemical Bonding and Molecular Structure",
+            "topic": "Bond parameters"
+        },
+        {
+            "question_number": 75,
+            "question_text": "Statement I: Boron and oxygen have larger ionization energies as compared to beryllium and nitrogen respectively. Statement II: Mg has higher ionisation energy than Na and Al.",
+            "options": [
+                "(1) Statement I and Statement II both are correct.",
+                "(2) Statement I is correct, but Statement II is incorrect.",
+                "(3) Statement I is incorrect, but Statement II is correct.",
+                "(4) Statement I and Statement II both are incorrect."
+            ],
+            "question_id": "Q75",
+            "subject": "Chemistry",
+            "chapter": "Classification of Elements and Periodicity in Properties",
+            "topic": "Periodic trends"
+        },
+        {
+            "question_number": 76,
+            "question_text": "How many relations is/are correct:",
+            "options": [
+                "(1) 2",
+                "(2) 4",
+                "(3) 3",
+                "(4) 1"
+            ],
+            "question_id": "Q76",
+            "subject": "Chemistry",
+            "chapter": "Classification of Elements and Periodicity in Properties",
+            "topic": "Periodic trends"
+        },
+        {
+            "question_number": 77,
+            "question_text": "Match the column: Pair Identical property (a) B2 & O2 (P) Number of \u03c3 Bond (b) CN\u2013 & NO+ (Q) Bond order (c) H2 & Li2 (R) Number of unpaired e\u2013 (d) N2+ & O2+ (S) Paramagnetic in nature",
+            "options": [
+                "(1) a-R, b-P, c-Q, R, d-Q,S",
+                "(2) a-Q,R,S, b-P,R, c-Q,S, d-Q,R,S",
+                "(3) a-R,S, b-P,Q, c-P,Q, d-Q,R,S",
+                "(4) a-P,R,S, b-P,Q, c-Q,R, d-P,Q"
+            ],
+            "question_id": "Q77",
+            "subject": "Chemistry",
+            "chapter": "Chemical Bonding and Molecular Structure",
+            "topic": "Molecular orbital theory"
+        },
+        {
+            "question_number": 78,
+            "question_text": "Which of the following is incorrect?",
+            "options": [
+                "(1) Lycine, Arginine and Histidine are basic amino acid",
+                "(2) Deficiency of vitamin B2 causes cheilosis",
+                "(3) Deficiency of vitamin B6 causes convulsions",
+                "(4) Deficiency of vitamin B2 causes Beri beri"
+            ],
+            "question_id": "Q78",
+            "subject": "Chemistry",
+            "chapter": "Biomolecules",
+            "topic": "Vitamins and hormones"
+        },
+        {
+            "question_number": 79,
+            "question_text": "A non-ideal solution was prepared by mixing 30 mL chloroform and 50 mL acetone. The volume of mixture will be :-",
+            "options": [
+                "(1) > 80 mL",
+                "(2) < 80 mL",
+                "(3) = 80 mL",
+                "(4) \u2265 80 mL"
+            ],
+            "question_id": "Q79",
+            "subject": "Chemistry",
+            "chapter": "Solutions",
+            "topic": "Ideal and non-ideal solutions"
+        },
+        {
+            "question_number": 80,
+            "question_text": "AB3 (g) is dissociates as When the initial pressure of AB3 is 800 torr and the total pressure developed at equilibrium is 900 torr. What percentage of AB3 (g) is dissociated.",
+            "options": [
+                "(1) 75%",
+                "(2) 20%",
+                "(3) 25%",
+                "(4) 88.88%"
+            ],
+            "question_id": "Q80",
+            "subject": "Chemistry",
+            "chapter": "Equilibrium",
+            "topic": "Equilibrium constant"
+        },
+        {
+            "question_number": 81,
+            "question_text": "Number of hydrogen atoms per molecule of a hydrocarbon A having 85.8% carbon is (Given : Molar mass of A = 84 g mol )",
+            "options": [
+                "(1) 12",
+                "(2) 8",
+                "(3) 6",
+                "(4) 2"
+            ],
+            "question_id": "Q81",
+            "subject": "Chemistry",
+            "chapter": "Some Basic Concepts of Chemistry",
+            "topic": "Empirical and molecular formula"
+        },
+        {
+            "question_number": 82,
+            "question_text": "Match the column Column-I Column-II (Element) (At. No.) (i) Ds (a) 45 (ii) Rh (b) 110 (iii) Am (c) 60 (iv) Nd (d) 95",
+            "options": [
+                "(1) (i\u2013b), (ii\u2013a), (iii\u2013d), (iv\u2013c)",
+                "(2) (i\u2013b), (ii\u2013c), (iii\u2013d), (iv\u2013a)",
+                "(3) (i\u2013d), (ii\u2013c), (iii\u2013b), (iv\u2013a)",
+                "(4) (i\u2013d), (ii\u2013b), (iii\u2013a), (iv\u2013c)"
+            ],
+            "question_id": "Q82",
+            "subject": "Chemistry",
+            "chapter": "The d- and f-Block Elements",
+            "topic": "Electronic configuration"
+        },
+        {
+            "question_number": 83,
+            "question_text": "Half life of a chemical reaction at a particular concentration is 50 min. When the concentration of the reactant is doubled, the",
+            "options": [],
+            "question_id": "Q83",
+            "subject": "Chemistry",
+            "chapter": "Chemical Kinetics",
+            "topic": "Integrated rate equations"
+        },
+        {
+            "question_number": 84,
+            "question_text": "Higher yield of NO in can be obtained at (\u0394H of the reaction = +180.7 kJ/mol) A. Higher temperature B. Lower temperature C. Higher concentration of N2 D. Higher concentration of O2 Choose the correct answer from the options given below:",
+            "options": [
+                "(1) B, C, D only",
+                "(2) A, C, D only",
+                "(3) A, D only",
+                "(4) B, C only"
+            ],
+            "question_id": "Q84",
+            "subject": "Chemistry",
+            "chapter": "Equilibrium",
+            "topic": "Le Chatelier\u2019s principle"
+        },
+        {
+            "question_number": 85,
+            "question_text": "What is the change in oxidation number of carbon in the following reaction? CH4(g) + 4Cl2(g) \u2192 CCl4(l) + 4HCl(g)",
+            "options": [
+                "(1) 0 to +4",
+                "2) -4 to +4",
+                "(3) 0 to -4",
+                "(4) + to +4"
+            ],
+            "question_id": "Q85",
+            "subject": "Chemistry",
+            "chapter": "Redox Reactions",
+            "topic": "Oxidation number"
+        },
+        {
+            "question_number": 86,
+            "question_text": "Which amongst the following reactions of alkyl halides produces isonitrile as a major product? Choose the most appropriate answer from the options given below:",
+            "options": [
+                "(1) C only",
+                "(2) C, D only",
+                "(3) B only",
+                "(4) A, B only"
+            ],
+            "question_id": "Q86",
+            "subject": "Chemistry",
+            "chapter": "Haloalkanes and Haloarenes",
+            "topic": "Nucleophilic substitution"
+        },
+        {
+            "question_number": 87,
+            "question_text": "HNCO (isocyanic acid) has following resonating structures the order of stability is:",
+            "options": [],
+            "question_id": "Q87",
+            "subject": "Chemistry",
+            "chapter": "Organic Chemistry \u2013 Some Basic Principles and Techniques",
+            "topic": "Electronic effects"
+        },
+        {
+            "question_number": 88,
+            "question_text": "Incorrect statement for A and B is :-",
+            "options": [
+                "(1) A have more energy than B.",
+                "(2) B have less torsional strain than A.",
+                "(3) A have more steric strain than B.",
+                "(4) B is less stable than A."
+            ],
+            "question_id": "Q88",
+            "subject": "Chemistry",
+            "chapter": "Organic Chemistry \u2013 Some Basic Principles and Techniques",
+            "topic": "Isomerism"
+        },
+        {
+            "question_number": 89,
+            "question_text": "Assertion (A) :- When same quantity of heat is added to the system reversibly, then entropy change is inversely proportional to the temperature. Reason (R) :- A system at higher temperature has greater randomness in it than one at lower temperature.",
+            "options": [
+                "(1) Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+                "(2) (A) is correct but (R) is not correct",
+                "(3) (A) is incorrect but (R) is correct",
+                "(4) Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+            ],
+            "question_id": "Q89",
+            "subject": "Chemistry",
+            "chapter": "Thermodynamics",
+            "topic": "Second law of thermodynamics"
+        },
+        {
+            "question_number": 90,
+            "question_text": "",
+            "options": [
+                "(1) 2",
+                "(2) 3",
+                "(3) 1",
+                "(4) 5"
+            ],
+            "question_id": "Q90",
+            "subject": "Chemistry",
+            "chapter": "Organic Chemistry \u2013 Some Basic Principles and Techniques",
+            "topic": "Isomerism"
+        },
+        {
+            "question_number": 91,
+            "question_text": "Which of the following statements regarding coenzymes and prosthetic groups of enzymes is not true?",
+            "options": [
+                "(a) Both are required for enzyme action",
+                "(b) Both can be separated from enzyme by dialysis",
+                "(c) Both are organic compounds",
+                "(d) Both are polypeptides"
+            ],
+            "question_id": "Q91",
+            "subject": "Botany",
+            "chapter": "Biomolecules",
+            "topic": "Enzymes \u2013 types, properties, mechanism"
+        },
+        {
+            "question_number": 92,
+            "question_text": "Glycogen is most structurally similar to",
+            "options": [
+                "(a) Glucose",
+                "(b) Starch",
+                "(c) Maltose",
+                "(d) Cellulose"
+            ],
+            "question_id": "Q92",
+            "subject": "Botany",
+            "chapter": "Biomolecules",
+            "topic": "Structure and function of carbohydrates, proteins, lipids, nucleic acids"
+        },
+        {
+            "question_number": 93,
+            "question_text": "Carbohydrates are commonly found as starch in plant storage organs. Which of the following five properties of starch (a-e) make it useful as a storage material? (A) Easily translocated? (B) Chemically non-reactive (C) Easily digested by animals (D) Osmotically inactive (E) Synthesized during photosynthesis. The useful properties are",
+            "options": [
+                "(a) (B) and (C)",
+                "(b) (B) and (D)",
+                "(c) (A), (C) and (E)",
+                "(d) (A) and (E)"
+            ],
+            "question_id": "Q93",
+            "subject": "Botany",
+            "chapter": "Biomolecules",
+            "topic": "Structure and function of carbohydrates, proteins, lipids, nucleic acids"
+        },
+        {
+            "question_number": 94,
+            "question_text": "Enzymes which use ribose as substrates",
+            "options": [
+                "(a) Enzymes which used ribose as substrates",
+                "(b) Enzymes working on DNA",
+                "(c) Nucleic acid with enzymatic activity",
+                "(d) Enzyme \u2013RNA complexes"
+            ],
+            "question_id": "Q94",
+            "subject": "Botany",
+            "chapter": "Biomolecules",
+            "topic": "Enzymes \u2013 types, properties, mechanism"
+        },
+        {
+            "question_number": 95,
+            "question_text": "In an organism, enzymes generally have",
+            "options": [
+                "(a) Same pH and temperature optima",
+                "(b) Same pH but different temperature optima",
+                "(c) Different pH but same temperature optima",
+                "(d) Different pH and different temperature optima"
+            ],
+            "question_id": "Q95",
+            "subject": "Botany",
+            "chapter": "Biomolecules",
+            "topic": "Enzymes \u2013 types, properties, mechanism"
+        },
+        {
+            "question_number": 96,
+            "question_text": "The m K of an enzyme is",
+            "options": [
+                "(a) One half of the max V",
+                "(b) A dissociation constant",
+                "(c) The substrate concentration that gives maximal velocity",
+                "(d) The substrate concentration that gives half maximal velocity"
+            ],
+            "question_id": "Q96",
+            "subject": "Botany",
+            "chapter": "Biomolecules",
+            "topic": "Enzymes \u2013 types, properties, mechanism"
+        },
+        {
+            "question_number": 97,
+            "question_text": "Synapsis is pairing of",
+            "options": [
+                "(a) Any two chromosomes",
+                "(b) Non homologous chromosomes",
+                "(c) Acentric chromosomes",
+                "(d) Homologous chromosomes"
+            ],
+            "question_id": "Q97",
+            "subject": "Botany",
+            "chapter": "Cell Cycle and Cell Division",
+            "topic": "Meiosis"
+        },
+        {
+            "question_number": 98,
+            "question_text": "In an organism, if the normal diploid number of chromosomes is 8 , how many chromatids are present in each daughter cell at the end of meiosis I",
+            "options": [
+                "(a) 2",
+                "(b) 4",
+                "(c) 8",
+                "(d) 16"
+            ],
+            "question_id": "Q98",
+            "subject": "Botany",
+            "chapter": "Cell Cycle and Cell Division",
+            "topic": "Meiosis"
+        },
+        {
+            "question_number": 99,
+            "question_text": "The diagram below shows a cell cycle. Which of the following process occur during V?",
+            "options": [
+                "(a) Replication of DNA",
+                "(b) Replicatoin of centrioles",
+                "(c) Chromosomes condense and become shorter and thicker",
+                "(d) High metabolic rate and synthesis of proteins and cellular organelles"
+            ],
+            "question_id": "Q99",
+            "subject": "Botany",
+            "chapter": "Cell Cycle and Cell Division",
+            "topic": "Phases of cell cycle"
+        },
+        {
+            "question_number": 100,
+            "question_text": "Spindle fibres attach on to:",
+            "options": [
+                "(a) Telomere of the chromosome",
+                "(b) Kinetochore of the chromosome",
+                "(c) Centromere of the chromosome",
+                "(d) NOR of the chromosome"
+            ],
+            "question_id": "Q100",
+            "subject": "Botany",
+            "chapter": "Cell Cycle and Cell Division",
+            "topic": "Mitosis"
+        },
+        {
+            "question_number": 101,
+            "question_text": "When synapsis is complete all along the chromosome, the cell is said to have entered a stage called",
+            "options": [
+                "(a) Zygotene",
+                "(b) Pachytene",
+                "(c) Diplotene",
+                "(d) Diakinesis"
+            ],
+            "question_id": "Q101",
+            "subject": "Botany",
+            "chapter": "Cell Cycle and Cell Division",
+            "topic": "Meiosis"
+        },
+        {
+            "question_number": 102,
+            "question_text": "Select the correct answer regarding the phase of meiosis and their respective events using the lists given below: List I (Phase of meiosis) List II (Event over occurs) (1) Prophase I Crossing over occurs (2) Metaphase II Sister chromatids migrate to opposite (3) Anaphase I Homologous line up at equator in",
+            "options": [],
+            "question_id": "Q102",
+            "subject": "Botany",
+            "chapter": "Cell Cycle and Cell Division",
+            "topic": "Meiosis"
+        },
+        {
+            "question_number": 103,
+            "question_text": "With reference to factors affecting the rate of photosynthesis, which of the following statements is not correct?",
+            "options": [
+                "(a) Tomato is a greenhouse crop which can be grown in 2CO - enriched atmosphere for higher yield",
+                "(b) Light saturation for 2CO  fixation occurs at 10% of full sunlight",
+                "(c) Increasing atmospheric 2CO  concentration up to 0.05% can enhance 2CO  fixation rate",
+                "(d) 3C  plants respond to higher temperatures with enhanced photosynthesis while 4C   plants have much lower temperature optimum"
+            ],
+            "question_id": "Q103",
+            "subject": "Botany",
+            "chapter": "Photosynthesis in Higher Plants",
+            "topic": "Factors affecting photosynthesis"
+        },
+        {
+            "question_number": 104,
+            "question_text": "Phosphoenol pyruvate (PEP) is the primary 2CO   acceptor in:",
+            "options": [
+                "(a) 3C  and 4C  plants",
+                "(b) 3C  plants",
+                "(c) 4C  plants",
+                "(d) 2C  plants"
+            ],
+            "question_id": "Q104",
+            "subject": "Botany",
+            "chapter": "Photosynthesis in Higher Plants",
+            "topic": "C3 and C4 pathways"
+        },
+        {
+            "question_number": 105,
+            "question_text": "Oxygen is not produced during photosynthesis by",
+            "options": [
+                "(a) Cycas",
+                "(b) Nostoc",
+                "(c) Green sulphur bacteria",
+                "(d) Chara"
+            ],
+            "question_id": "Q105",
+            "subject": "Botany",
+            "chapter": "Photosynthesis in Higher Plants",
+            "topic": "Photosynthesis \u2013 site and pigments"
+        },
+        {
+            "question_number": 106,
+            "question_text": "Which of the following is not a product of light reaction of photosynthesis?",
+            "options": [
+                "(a) NADPH",
+                "(b) NADH",
+                "(c) ATP",
+                "(d) Oxygen"
+            ],
+            "question_id": "Q106",
+            "subject": "Botany",
+            "chapter": "Photosynthesis in Higher Plants",
+            "topic": "Light reaction"
+        },
+        {
+            "question_number": 107,
+            "question_text": "The oxygenation activity of RuBisCo enzyme in photorespiration leads to the formation of:",
+            "options": [
+                "(a) 1 molecule of 3-C compound and 1 molecule of 2-C compound",
+                "(b) 2 molecules of 3-C compound",
+                "(c) 1 molecule of 3-C compound",
+                "(d) 1 molecule of 6-C compound"
+            ],
+            "question_id": "Q107",
+            "subject": "Botany",
+            "chapter": "Photosynthesis in Higher Plants",
+            "topic": "Photorespiration"
+        },
+        {
+            "question_number": 108,
+            "question_text": "In light reaction, plastoquinone facilitates that transfer of electrons from",
+            "options": [
+                "(a) PS-I to ATP synthase",
+                "(b) PS-II to 6Cytb f  complex",
+                "(c) 6Cytb f  complex to PS-I",
+                "(d) PS-I to +NADP"
+            ],
+            "question_id": "Q108",
+            "subject": "Botany",
+            "chapter": "Photosynthesis in Higher Plants",
+            "topic": "Light reaction"
+        },
+        {
+            "question_number": 109,
+            "question_text": "Which of the following steps is common between aerobic and anaerobic respiration?",
+            "options": [
+                "(a) TCA/Kreb\u2019s cycle",
+                "(b) ETS",
+                "(c) EMP pathway/Glycolysis",
+                "(d) photo oxidation"
+            ],
+            "question_id": "Q109",
+            "subject": "Botany",
+            "chapter": "Respiration in Plants",
+            "topic": "Glycolysis"
+        },
+        {
+            "question_number": 110,
+            "question_text": "Glyceraldehyde 3-phosphate (PGALD or GAP) is oxidised during glycolysis. What happen to the hydrogen atom and the electron that are removed during its oxidation?",
+            "options": [
+                "(a) They reduce NAD +",
+                "(b) They oxidise NAD",
+                "(c) They are transferred to pyruvic acid",
+                "(d) they are removed"
+            ],
+            "question_id": "Q110",
+            "subject": "Botany",
+            "chapter": "Respiration in Plants",
+            "topic": "Glycolysis"
+        },
+        {
+            "question_number": 111,
+            "question_text": "The net gain of glycolysis of one molecule of glucose is the formation of",
+            "options": [
+                "(a) +2NADH H 4ATP 1 + Pyruvic acid",
+                "(b) +2NADH 2H 2ATP 2 + Pyruvic acid",
+                "(c) +8ATP 2NADH H 2 + Pyruvic acid",
+                "(d) +8ATP 2NADH H 2 + Pyruvic acid 2 + CO"
+            ],
+            "question_id": "Q111",
+            "subject": "Botany",
+            "chapter": "Respiration in Plants",
+            "topic": "Glycolysis"
+        },
+        {
+            "question_number": 112,
+            "question_text": "In Kreb\u2019s cycle, FAD participates as electron acceptor during the conversion of",
+            "options": [
+                "(a) Succinyl CoA to Succinic acid",
+                "(b) \u03b1 -ketoglutarate to succinyl CoA",
+                "(c) Succinic acid to fumaric acid",
+                "(d) Fumaric acid to malic acid"
+            ],
+            "question_id": "Q112",
+            "subject": "Botany",
+            "chapter": "Respiration in Plants",
+            "topic": "TCA cycle"
+        },
+        {
+            "question_number": 113,
+            "question_text": "A single turn of Krebs cycle yields",
+            "options": [
+                "(a) 1 FADH2, 2 NADH2 and 1 ATP",
+                "(b) 2 FADH2, 2 NADH2 and 2 ATP",
+                "(c) 1 FADH2, 3 NADH2 and 1 ATP",
+                "(d) 1 FADH2, 1 NADH2 and 1 ATP"
+            ],
+            "question_id": "Q113",
+            "subject": "Botany",
+            "chapter": "Respiration in Plants",
+            "topic": "TCA cycle"
+        },
+        {
+            "question_number": 114,
+            "question_text": "The substarate for Kreb\u2019s cycle is:",
+            "options": [
+                "(a) Pyruvic acid",
+                "(b) Oxaloacetic acid",
+                "(c) \u03b1 ketogluataric acid",
+                "(d) Citric acid"
+            ],
+            "question_id": "Q114",
+            "subject": "Botany",
+            "chapter": "Respiration in Plants",
+            "topic": "TCA cycle"
+        },
+        {
+            "question_number": 115,
+            "question_text": "Correct sequence of different phases of growth is",
+            "options": [
+                "(a) Cell division, Cell differentiation, Cell elongation",
+                "(b) Cell differentiation, Cell division, Cell elongation",
+                "(c) Cell elongation, Cell division, Cell differentiation",
+                "(d) Cell division, Cell elongation, Cell differentiation"
+            ],
+            "question_id": "Q115",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Phases of growth"
+        },
+        {
+            "question_number": 116,
+            "question_text": "The growth in plants differs from growth in animals because it is",
+            "options": [
+                "(a) Intrinsic in the former",
+                "(b) Extrinsic in the former",
+                "(c) Indeterminate in the former",
+                "(d) Indefinite in the latter"
+            ],
+            "question_id": "Q116",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth and development"
+        },
+        {
+            "question_number": 117,
+            "question_text": "When growth is going on at a slow rate in geometrical growth curve, the phase is known as",
+            "options": [
+                "(a) Lag period",
+                "(b) Log period",
+                "(c) Period of diminishing growth",
+                "(d) linear phase of growth"
+            ],
+            "question_id": "Q117",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth rate"
+        },
+        {
+            "question_number": 118,
+            "question_text": "Match the Column I with the Column II by choosing the correct combination of alphabets from the choices given below Column \u2013 I A Auxins B ABA C Ethylene D GA E Cytokinins Column \u2013 II p. Herring sperm DNA q. Bolting r. Stomatal closure s. Weed- free lawns t. Ripening of fruit",
+            "options": [
+                "(a) A \u2013 t, B \u2013 s, C \u2013 q, D \u2013 p, E \u2013 r",
+                "(b) A \u2013 s, B \u2013 r, C \u2013 t, D \u2013 q, E \u2013 p",
+                "(c) A \u2013 r, B \u2013 s, C \u2013 p, D \u2013 q, E \u2013 t",
+                "(d) A \u2013 q, B \u2013 t, C \u2013 p, D \u2013 s, E \u2013 r"
+            ],
+            "question_id": "Q118",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth regulators \u2013 auxin, gibberellin, cytokinin, ethylene, ABA"
+        },
+        {
+            "question_number": 119,
+            "question_text": "Match the items of column I and column II Column I A. Axuin B. Gibberellin C. Cytokinin D. ABA Column II p. GA3 q. Indole acetic acid r. Stress hormone s. Zeatin",
+            "options": [
+                "(a) A-q, B-r, C-p, D-s",
+                "(b) A-q, B-s, C-p, D-r",
+                "(c) A-q, B-p, C-s, D-r",
+                "(d) A-q, B-s, C-r, D-p"
+            ],
+            "question_id": "Q119",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth regulators \u2013 auxin, gibberellin, cytokinin, ethylene, ABA"
+        },
+        {
+            "question_number": 120,
+            "question_text": "During mid \u2013 1960s, three independent researchers reported the purification and chemical characterisation of three different kinds of inhibitors namely",
+            "options": [
+                "(a) Inhibitor \u2013 B, abscission II and dormin",
+                "(b) Inhibitor \u2013 B, abscission I and kinetin",
+                "(c) Inhibitor \u2013 A, abscission II and zeatin",
+                "(d) Inhibitor \u2013 B, abscission I and dormin"
+            ],
+            "question_id": "Q120",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth regulators \u2013 auxin, gibberellin, cytokinin, ethylene, ABA"
+        },
+        {
+            "question_number": 121,
+            "question_text": "Pollen-pistil interaction includes all the events",
+            "options": [
+                "(a) That occurs between pollen grain and stigma",
+                "(b) From the deposition of pollen grain on the stigma till the last stage of fertilization",
+                "(c) Occur within the pistil",
+                "(d) From the deposition of pollen grain on the stigma till pollen tube enters the ovule"
+            ],
+            "question_id": "Q121",
+            "subject": "Botany",
+            "chapter": "Sexual Reproduction in Flowering Plants",
+            "topic": "Pollination \u2013 types and agents"
+        },
+        {
+            "question_number": 122,
+            "question_text": "If seeds possess endosperm then they are classified under",
+            "options": [
+                "(a) Albuminous seeds",
+                "(b) Ex-albuminous seeds",
+                "(c) Endospermic seeds",
+                "(d) Both (a) and (c)"
+            ],
+            "question_id": "Q122",
+            "subject": "Botany",
+            "chapter": "Sexual Reproduction in Flowering Plants",
+            "topic": "Seed and fruit formation"
+        },
+        {
+            "question_number": 123,
+            "question_text": "Perisperm i.e. residual persistent nucellus is seen in",
+            "options": [
+                "(a) Black pepper",
+                "(b) Beet",
+                "(c) Castor",
+                "(d) Both (a) and (b)"
+            ],
+            "question_id": "Q123",
+            "subject": "Botany",
+            "chapter": "Sexual Reproduction in Flowering Plants",
+            "topic": "Seed and fruit formation"
+        },
+        {
+            "question_number": 124,
+            "question_text": "Which of the following group of plants produces both chasmogamous and cleistogamous flowers",
+            "options": [
+                "(a) Viola and Commelina",
+                "(b) Hibiscus and Oxalis",
+                "(c) Commelina and Sunflower",
+                "(d) Oxalis and Vallisneria"
+            ],
+            "question_id": "Q124",
+            "subject": "Botany",
+            "chapter": "Sexual Reproduction in Flowering Plants",
+            "topic": "Pollination \u2013 types and agents"
+        },
+        {
+            "question_number": 125,
+            "question_text": "Compare the statement A and B Statement A: Autogamy results in genetic variations Statement B: Xenogamy results in greater genetic variations than geitenogamy Select the correct description",
+            "options": [
+                "(a) Statement A and Statement B are correct",
+                "(b) Both statement A and B are incorrect",
+                "(c) Statement A is correct and statement B is",
+                "(d) Wrong Statement A is wrong and statement B is correct"
+            ],
+            "question_id": "Q125",
+            "subject": "Botany",
+            "chapter": "Sexual Reproduction in Flowering Plants",
+            "topic": "Pollination \u2013 types and agents"
+        },
+        {
+            "question_number": 126,
+            "question_text": "Mathematically , the arithmetic growth is expressed as",
+            "options": [
+                "(a) Lt = L0 +rt",
+                "(b) Lt = L0 +rt",
+                "(c) Rt = L0 + L1",
+                "(d) L0 = L1 \u2013 rt"
+            ],
+            "question_id": "Q126",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth rate"
+        },
+        {
+            "question_number": 127,
+            "question_text": "Both progeny cells formed by mitotic division of a cell retain the ability to divide and continue to do so during",
+            "options": [
+                "(a) Lag phase",
+                "(b) Log phase",
+                "(c) Stationary phase",
+                "(d) Senescence phase"
+            ],
+            "question_id": "Q127",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth rate"
+        },
+        {
+            "question_number": 128,
+            "question_text": "The exponential phase can be expressed as",
+            "options": [
+                "(a) W1 = W0 ert",
+                "(b) W0 = W 1 ert",
+                "(c) L0 = L0 + rt",
+                "(d) Rt =L0 + L1"
+            ],
+            "question_id": "Q128",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth rate"
+        },
+        {
+            "question_number": 129,
+            "question_text": "Which one is the correct graph for arithmetic growth",
+            "options": [
+                "(a)",
+                "(b)",
+                "c)",
+                "d)"
+            ],
+            "question_id": "Q129",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth rate"
+        },
+        {
+            "question_number": 130,
+            "question_text": "The graph is drawn on the parameters of growth versus time. What do A, B and C respectively represent?",
+            "options": [
+                "(a) Exponential phase, log phase and steady state phase",
+                "(b) Steady state phase, lag phase and log phase",
+                "(c) Log phase, steady phase and logarithmic phase",
+                "(d) Log phase, lag phase and steady phase"
+            ],
+            "question_id": "Q130",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth rate"
+        },
+        {
+            "question_number": 131,
+            "question_text": "A primary root grows from 5cm to 19 cm in a week. Calculate the actual growth rate (AGR) and relative growth rate (RGR) over the period. AGR RGR",
+            "options": [
+                "(a) 14 cm 2.8 cm",
+                "(b) 14 cm 3.8 cm",
+                "(c) 3.8 cm 14 cm",
+                "(d) 24 cm 2.8 cm"
+            ],
+            "question_id": "Q131",
+            "subject": "Botany",
+            "chapter": "Plant Growth and Development",
+            "topic": "Growth rate"
+        },
+        {
+            "question_number": 132,
+            "question_text": "What does a bivalent consists of?",
+            "options": [
+                "(a) Two chromatids and one centromere",
+                "(b) Four chromatids and two centromeres",
+                "(c) Four chromatids and four centromeres",
+                "(d) Two chromatids and one centromere"
+            ],
+            "question_id": "Q132",
+            "subject": "Botany",
+            "chapter": "Cell Cycle and Cell Division",
+            "topic": "Meiosis"
+        },
+        {
+            "question_number": 133,
+            "question_text": "Crossing over occurs between",
+            "options": [
+                "(a) Two different bivalents",
+                "(b) Sister chromatids of same chromosomes",
+                "(c) Two daughter nuclei",
+                "(d) Non sister chromatids of a bivalent"
+            ],
+            "question_id": "Q133",
+            "subject": "Botany",
+            "chapter": "Cell Cycle and Cell Division",
+            "topic": "Meiosis"
+        },
+        {
+            "question_number": 134,
+            "question_text": "All naturally occurring lipids on hydrolysis yield",
+            "options": [
+                "(a) Fatty acid and glycerol",
+                "(b) Fatty acid with alcohol",
+                "(c) An acid and alcohol",
+                "(d) An acid and an organic solvent"
+            ],
+            "question_id": "Q134",
+            "subject": "Botany",
+            "chapter": "Biomolecules",
+            "topic": "Structure and function of carbohydrates, proteins, lipids, nucleic acids"
+        },
+        {
+            "question_number": 135,
+            "question_text": "Triglycerides are",
+            "options": [
+                "(a) Simple lipids",
+                "(b) Compound lipids",
+                "(c) Derived lipids",
+                "(d) Steroids"
+            ],
+            "question_id": "Q135",
+            "subject": "Botany",
+            "chapter": "Biomolecules",
+            "topic": "Structure and function of carbohydrates, proteins, lipids, nucleic acids"
+        },
+        {
+            "question_number": 136,
+            "question_text": "The figure given below shows three stages in the cardiac cycle. Which of the following sequences is correct regarding this?",
+            "options": [
+                "(1) 2, 3, 1",
+                "(2) 1, 2, 3",
+                "(3) 2, 1, 3",
+                "(4) 3, 1, 2"
+            ],
+            "question_id": "Q136",
+            "subject": "Zoology",
+            "chapter": "Body Fluids and Circulation",
+            "topic": "Cardiac cycle, cardiac output, ECG"
+        },
+        {
+            "question_number": 137,
+            "question_text": "Consider the pressure changes within the human heart during a complete cardiac cycle. At what specific point in time would the pressure inside the left ventricle first exceed the pressure in the left atrium, and what is the immediate anatomical consequence of this pressure differential?",
+            "options": [
+                "(1) At the very onset of ventricular systole; Closure of the bicuspid valve.",
+                "(2) During the T-wave; Closure of the tricuspid valve.",
+                "(3) Immediately after the P-wave; Opening of the aortic semilunar valve.",
+                "(4) Just after the QRS complex, Relaxation of the left atrium."
+            ],
+            "question_id": "Q137",
+            "subject": "Zoology",
+            "chapter": "Body Fluids and Circulation",
+            "topic": "Cardiac cycle, cardiac output, ECG"
+        },
+        {
+            "question_number": 138,
+            "question_text": "Hb most strongly combines with :-",
+            "options": [
+                "(1) CO2",
+                "(2) CO",
+                "(3) O2",
+                "(4) O3"
+            ],
+            "question_id": "Q138",
+            "subject": "Zoology",
+            "chapter": "Breathing and Exchange of Gases",
+            "topic": "Exchange of gases, transport of gases and regulation of respiration"
+        },
+        {
+            "question_number": 139,
+            "question_text": "The nerve impulses which stimulate the intercostal muscles and diaphragm to permit breathing, originate in the:-",
+            "options": [
+                "(1) Cerebellum",
+                "(2) Pons",
+                "(3) Hypothalamus",
+                "(4) Medulla oblongata"
+            ],
+            "question_id": "Q139",
+            "subject": "Zoology",
+            "chapter": "Breathing and Exchange of Gases",
+            "topic": "Mechanism of breathing and its regulation in humans"
+        },
+        {
+            "question_number": 140,
+            "question_text": "Read the following statements A-D A. Our vertebral column is formed by 26 serially arranged units called vertebrae and is ventrally placed. B. Vertebral column extends from the base of the skull and constitutes the main frame work of the trunk. C. Each vertebra has a central hollow portion (neural canal) through which the spinal cord passes. D. First vertebra is axis and it articulates with the occipital condyles How many of the above statements are correct?",
+            "options": [
+                "(1) Four",
+                "(2) Three",
+                "(3) Two",
+                "(4) One"
+            ],
+            "question_id": "Q140",
+            "subject": "Zoology",
+            "chapter": "Locomotion and Movement",
+            "topic": "Skeletal system and its functions"
+        },
+        {
+            "question_number": 141,
+            "question_text": "Which of the following statements are correct? (i) Muscle contraction is initiated by a signal sent by motor neuron of CNS . (ii) During muscle contraction, isotropic band gets elongated. (iii)The dark band contains only myosin filament. (iv)A motor neuron along with the muscle fibres connected to it constitute a motor unit.",
+            "options": [
+                "(1) (i) and (ii) are correct",
+                "(2) (ii) and (iii) are correct",
+                "(3) (iii) and (iv) are correct",
+                "(4) (i) and (iv) are correct"
+            ],
+            "question_id": "Q141",
+            "subject": "Zoology",
+            "chapter": "Locomotion and Movement",
+            "topic": "Skeletal muscle \u2013 contractile proteins and muscle contraction"
+        },
+        {
+            "question_number": 142,
+            "question_text": "Under normal conditions which one is completely reabsorbed in the renal tubule?",
+            "options": [
+                "(1) Salts",
+                "(2) Urea",
+                "(3) Glucose",
+                "(4) Uric acid"
+            ],
+            "question_id": "Q142",
+            "subject": "Zoology",
+            "chapter": "Excretory Products and Their Elimination",
+            "topic": "Urine formation, osmoregulation"
+        },
+        {
+            "question_number": 143,
+            "question_text": "Select the incorrect statement from the following:",
+            "options": [
+                "(1) The DCTs of many nephrons opens into a straight tube called collecting duct.",
+                "(2) In cortical nephrons (majority), the loop of Henle is too short and extended only very little in medulla.",
+                "(3) In juxta medullary nephrons (minority), the loop of Henle is very long and runs deeply into medulla.",
+                "(4) Vasa recta is not a part of peritubular network."
+            ],
+            "question_id": "Q143",
+            "subject": "Zoology",
+            "chapter": "Excretory Products and Their Elimination",
+            "topic": "Human excretory system \u2013 structure and function"
+        },
+        {
+            "question_number": 144,
+            "question_text": "Association area are :-",
+            "options": [
+                "(1) Sensory area found in deep part of cerebral cortex.",
+                "(2) Motor area found in surface layer of grey matter of cerebrum.",
+                "(3) Neither clearly sensory nor motor found in grey matter of cerebrum.",
+                "(4) Hypothalamic neurons which secrete hormones."
+            ],
+            "question_id": "Q144",
+            "subject": "Zoology",
+            "chapter": "Neural Control and Coordination",
+            "topic": "Nervous system in humans \u2013 central nervous system, peripheral nervous system and visceral nervous system"
+        },
+        {
+            "question_number": 145,
+            "question_text": "Given below is diagrammatic sketch of a sagittal section of the human brain. Identify A, B and C with their correct function",
+            "options": [],
+            "question_id": "Q145",
+            "subject": "Zoology",
+            "chapter": "Neural Control and Coordination",
+            "topic": "Nervous system in humans \u2013 central nervous system, peripheral nervous system and visceral nervous system"
+        },
+        {
+            "question_number": 146,
+            "question_text": "Alveolar growth in mammary gland is function of:-",
+            "options": [
+                "(1) Thyroxine",
+                "(2) Progesteron",
+                "(3) ANF",
+                "(4) Oxytocin"
+            ],
+            "question_id": "Q146",
+            "subject": "Zoology",
+            "chapter": "Chemical Coordination and Integration",
+            "topic": "Human endocrine system \u2013 hypothalamus, pituitary, pineal, thyroid, parathyroid, adrenal, pancreas, gonads"
+        },
+        {
+            "question_number": 147,
+            "question_text": "Assertion: Hormones are nutrient substances which act as intercellular messenger. Reason: Hormones are produced in large amount.",
+            "options": [
+                "(1) Both the assertion and the reason are true and the reason is a correct explanation of the assertion.",
+                "(2) Both the assertion and reason are true but the reason is not a correct explanation of the assertion.",
+                "(3) The assertion is true but the reason is false.",
+                "(4) Both the assertion and reason are false."
+            ],
+            "question_id": "Q147",
+            "subject": "Zoology",
+            "chapter": "Chemical Coordination and Integration",
+            "topic": "Endocrine glands and hormones"
+        },
+        {
+            "question_number": 148,
+            "question_text": "Fill in the blanks: A. Oral contraceptive pills have to be taken daily for a period of \u2026A\u2026 starting preferably within the first \u2026B\u2026 of menstrual cycle. B. In Lactational amenorrhea method has been reported to be effective only up to a maximum period of \u2026C\u2026 following parturition.",
+            "options": [
+                "(1) A-21 days, B-7 days, C-9 months",
+                "(2) A-28 days, B-7 days, C-8 months",
+                "(3) A-14 days, B-5 days, C-6 months",
+                "(4) A-21 days, B-5 days, C-6 months"
+            ],
+            "question_id": "Q148",
+            "subject": "Zoology",
+            "chapter": "Reproductive Health",
+            "topic": "Birth control \u2013 need and methods, contraception and medical termination of pregnancy (MTP)"
+        },
+        {
+            "question_number": 149,
+            "question_text": "Read the given statements and choose correct option about them:- (A) Each lobule of testis contains one to three highly coiled seminiferous tubules and it is lined inside by only columnar cells (B) The vasa efferentia leave the testis and open into vas deferens (C) Epididymis is located along the posterior surface of each testis (D)Seminal plasma is rich in fructose, calcium and certain enzymes.",
+            "options": [
+                "(1) True False True True",
+                "(2) False False True True",
+                "(3) False False False False",
+                "(4) True True False False"
+            ],
+            "question_id": "Q149",
+            "subject": "Zoology",
+            "chapter": "Human Reproduction",
+            "topic": "Male and female reproductive systems"
+        },
+        {
+            "question_number": 150,
+            "question_text": "If ampulla of mammary gland is blocked, the milk will not go from:-",
+            "options": [
+                "(1) Alveoli to mammary duct",
+                "(2) Mammary tubule to mammary duct",
+                "(3) Mammary duct to lactiferous duct",
+                "(4) Mammary duct to mammary tubule"
+            ],
+            "question_id": "Q150",
+            "subject": "Zoology",
+            "chapter": "Human Reproduction",
+            "topic": "Lactation"
+        },
+        {
+            "question_number": 151,
+            "question_text": "How many structures in the list given below are haploid? (Spermatid, secondary oocyte, primary spermatocyte, ovum, sperm, oogonia, spermatogonia, polar body)",
+            "options": [
+                "(1) Six",
+                "(2) Four",
+                "(3) Two",
+                "(4) Five"
+            ],
+            "question_id": "Q151",
+            "subject": "Zoology",
+            "chapter": "Human Reproduction",
+            "topic": "Gametogenesis \u2013 spermatogenesis and oogenesis"
+        },
+        {
+            "question_number": 152,
+            "question_text": "How many sperm and ova will produce from 40 spermatogonium and 40 oogonium respectively.",
+            "options": [
+                "(1) 160 sperm and 160 ova",
+                "(2) 40 sperm and 140 ova",
+                "(3) 160 sperm and 40 ova",
+                "(4) 40 sperm and 40 ova"
+            ],
+            "question_id": "Q152",
+            "subject": "Zoology",
+            "chapter": "Human Reproduction",
+            "topic": "Gametogenesis \u2013 spermatogenesis and oogenesis"
+        },
+        {
+            "question_number": 153,
+            "question_text": "In gel electrophoresis, separated bands of DNA are cut out from the agarose gel and extracted from the gel pieces. This step is known as:-",
+            "options": [
+                "(1) Blotting",
+                "(2) Elution",
+                "(3) Cloning",
+                "(4) Tagging"
+            ],
+            "question_id": "Q153",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 154,
+            "question_text": "Which enzyme is used in PCR technique?",
+            "options": [
+                "(1) Thermostable DNA polymerase",
+                "(2) Thermostable RNA polymerase",
+                "(3) Thermostable ligase",
+                "(4) Thermostable vector"
+            ],
+            "question_id": "Q154",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 155,
+            "question_text": "The basic procedure involved in the synthesis of recombinant DNA molecule is depicted below. The mistake in the procedure is:-",
+            "options": [],
+            "question_id": "Q155",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 156,
+            "question_text": "Which of the following tools of recombinant DNA technology is incorrectly paired with its use?",
+            "options": [
+                "(1) Restriction enzyme - Production of RFLPs",
+                "(2) DNA ligase-that cuts DNA, creating the sticky ends",
+                "(3) DNA polymerase - used in a polymerase chain reaction to amplify section of DNA",
+                "(4) reverse transcriptase - production of cDNA from mRNA"
+            ],
+            "question_id": "Q156",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Tools of recombinant DNA technology"
+        },
+        {
+            "question_number": 157,
+            "question_text": "The colonies of recombinant bacteria do not produce colour in contrast to blue colonies of non-recombinant bacteria because of:-",
+            "options": [
+                "(1) Inactivation of glycosidase enzyme in recombinant bacteria",
+                "(2) Non-recombinant bacteria containing beta-galactosidase",
+                "(3) Insertional inactivation of alpha-galactosidase in non-recombinant bacteria",
+                "(4) Insertional inactivation of beta-galactosidase in recombinant bacteria"
+            ],
+            "question_id": "Q157",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 158,
+            "question_text": "Select the incorrect statement for continuous culture system:",
+            "options": [
+                "(1) In this system, used medium is drained out from one side while fresh medium is added from other side.",
+                "(2) In this system, cells are maintained in their physiologically most active lag phase of growth.",
+                "(3) It produces larger biomass.",
+                "(4) It shows higher yields of desired product"
+            ],
+            "question_id": "Q158",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 159,
+            "question_text": "You have three copies of a particular DNA molecule what technique would you use to make more copies of the molecule?",
+            "options": [
+                "(1) Gel electrophoresis",
+                "(2) Sequencing",
+                "(3) PCR",
+                "(4) Restriction fragment analysis"
+            ],
+            "question_id": "Q159",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 160,
+            "question_text": "To denature the DNA template in PCR it is heated to",
+            "options": [
+                "(1) 70\u00b0C",
+                "(2) 54\u00b0C",
+                "(3) 80\u00b0C",
+                "(4) 94\u00b0C"
+            ],
+            "question_id": "Q160",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 161,
+            "question_text": "Alternative selectable markers developed to differentiate non-recombinants from recombinants on the basis of :-",
+            "options": [
+                "(1) Ability of separate them according to size.",
+                "(2) Ability to produce colour in the presence of a chromogenic substrate.",
+                "(3) Ability to kill the host.",
+                "(4) None of the above"
+            ],
+            "question_id": "Q161",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 162,
+            "question_text": "In gel electrophoresis technique the DNA fragments are forced to move through a medium towards:-",
+            "options": [
+                "(1) Anode",
+                "(2) Cathode",
+                "(3) Both (1) and (2)",
+                "(4) None of the above"
+            ],
+            "question_id": "Q162",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 163,
+            "question_text": "Taq-polymerase is used in, polymerase chain reaction, because:-",
+            "options": [
+                "(1) It becomes inactive at high temperature",
+                "(2) It makes other enzyme active at high temperature",
+                "(3) It remains active during high temperature",
+                "(4) It is obtained from thermostable virus."
+            ],
+            "question_id": "Q163",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 164,
+            "question_text": "When the isolation of genetic material is done the RNA can be removed by treatment with :-",
+            "options": [
+                "(1) Protease",
+                "(2) Chitinase",
+                "(3) Ribonuclease",
+                "(4) Deoxyribonuclease"
+            ],
+            "question_id": "Q164",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 165,
+            "question_text": "First recombinant DNA was made by Stanley Cohen and Herbert Boyer in :-",
+            "options": [
+                "(1) 1968",
+                "(2) 1970",
+                "(3) 1972",
+                "(4) 1974"
+            ],
+            "question_id": "Q165",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Genetic engineering (Recombinant DNA technology)"
+        },
+        {
+            "question_number": 166,
+            "question_text": "Assertion: Continuous culture system produces a larger biomass. Reason: It maintains the cells in their physiologically most active lag phase.",
+            "options": [
+                "(1) Both assertion and reason are true and reason is the correct explanation of assertion.",
+                "(2) Both assertion and reason are true and reason is not the correct explanation of assertion.",
+                "(3) Assertion is true but reason is false.",
+                "(4) Both assertion and reason are false."
+            ],
+            "question_id": "Q166",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 167,
+            "question_text": "Statement-I: Bioreactors have volume of 100-1000 litres. Statement-II: They provide optimal conditions for achieving the desired product by providing optimum growth conditions.",
+            "options": [
+                "(1) Both statement I and statement II are correct.",
+                "(2) Both statement I and statement II are incorrect.",
+                "(3) Statement I is correct but statement II is incorrect.",
+                "(4) Statement I is incorrect but statement II is correct."
+            ],
+            "question_id": "Q167",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 168,
+            "question_text": "Statement-I: In PCR, multiple copies of gene of interest is synthesized in vivo. Statement-II: Thermostable DNA polymerase is isolated from a fungus Thermus aquaticus.",
+            "options": [
+                "(1) Statement-I is correct but Statement-II is incorrect.",
+                "(2) Both Statement-I and Statement-II are correct.",
+                "(3) Both Statement-I and Statement-II are incorrect.",
+                "(4) Statement-I is incorrect but Statement-II is correct"
+            ],
+            "question_id": "Q168",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 169,
+            "question_text": "Primers used for the process of polymerase chain reaction are _________.",
+            "options": [
+                "(1) single stranded DNA oligonucleotide",
+                "(2) double stranded DNA oligonucleotide",
+                "(3) single stranded RNA oligonucleotide",
+                "(4) double stranded RNA oligonucleotide"
+            ],
+            "question_id": "Q169",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 170,
+            "question_text": "In pBR322, restriction site of which of the following is not present on any selectable marker site?",
+            "options": [
+                "(1) Pvu II",
+                "(2) Sal I",
+                "(3) Pst I",
+                "(4) Pvu I"
+            ],
+            "question_id": "Q170",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Cloning vectors"
+        },
+        {
+            "question_number": 171,
+            "question_text": "What is the purpose of incubating the cells with recombinant DNA on ice and then briefly placing them at 42\u00b0C (heat shock) before putting them back on ice?",
+            "options": [
+                "(1) To prevent the cells from taking up the recombinant DNA.",
+                "(2) To increase the efficiency of the bacteria to take up the recombinant DNA.",
+                "(3) To inhibit the growth of bacteria in the cells.",
+                "(4) To destroy the recombinant DNA in the cells."
+            ],
+            "question_id": "Q171",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 172,
+            "question_text": "If we have four different sizes of DNA fragments i.e.,500 bp, 200bp, 350bp and 100bp, which band will be present closest to the wells on an agarose gel after electrophoresis?",
+            "options": [
+                "(1)350bp",
+                "(2)100bp",
+                "(3)200bp",
+                "(4) 500bp"
+            ],
+            "question_id": "Q172",
+            "subject": "Zoology",
+            "chapter": "Biotechnology \u2013 Principles and Processes",
+            "topic": "Processes of recombinant DNA technology"
+        },
+        {
+            "question_number": 173,
+            "question_text": "Organisms in which the total number of chromosomes are same in both male and female, But two different types of gametes in terms of the sex chromosomes, are produced by female are :-",
+            "options": [
+                "(1) Human",
+                "(2) Grasshopper",
+                "(3) Birds",
+                "(4) Honey bee"
+            ],
+            "question_id": "Q173",
+            "subject": "Zoology",
+            "chapter": "Animal Kingdom",
+            "topic": "Salient features and classification of animals"
+        },
+        {
+            "question_number": 174,
+            "question_text": "What will be the percentage inheritance of a disorder from an X-linked diseased father to his son.",
+            "options": [
+                "(1) 0%",
+                "(2) 25%",
+                "(3) 50%",
+                "(4) 100%"
+            ],
+            "question_id": "Q174",
+            "subject": "Zoology",
+            "chapter": "Human Reproduction",
+            "topic": "Gametogenesis \u2013 spermatogenesis and oogenesis"
+        },
+        {
+            "question_number": 175,
+            "question_text": "Antigen binding site in an antibody is found between:",
+            "options": [
+                "(1) two light chains.",
+                "(2) two heavy chains.",
+                "(3) one heavy and one light chain.",
+                "(4) either between two light chain or between one heavy and one light chain depending upon the nature of antigen."
+            ],
+            "question_id": "Q175",
+            "subject": "Zoology",
+            "chapter": "Human Health and Disease",
+            "topic": "Basic concepts of immunology \u2013 vaccines"
+        },
+        {
+            "question_number": 176,
+            "question_text": "Identify the method of cancer treatment in which tumor cells are irradiated lethally?",
+            "options": [
+                "(1) Surgery",
+                "(2) Radiotherapy",
+                "(3) Chemotherapy",
+                "(4) Immunotherapy"
+            ],
+            "question_id": "Q176",
+            "subject": "Zoology",
+            "chapter": "Human Health and Disease",
+            "topic": "Cancer, HIV and AIDS"
+        },
+        {
+            "question_number": 177,
+            "question_text": "A person suffering from a disease caused by Plasmodium, experiences recurring chill and fever at the time when:",
+            "options": [
+                "(1) the sporozoites released from RBCs are being rapidly killed and broken down inside spleen.",
+                "(2) the sporozoites released from WBCs are being killed instantaneously.",
+                "(3) the parasite after its rapid multiplication inside RBCs ruptures them and releases haemozoin.",
+                "(4) the microgametocytes and megagametocytes are being destroyed by the WBCs."
+            ],
+            "question_id": "Q177",
+            "subject": "Zoology",
+            "chapter": "Human Health and Disease",
+            "topic": "Pathogens \u2013 parasites causing human diseases (malaria, dengue, chikungunya, filariasis, ascariasis, typhoid, pneumonia, common cold, amoebiasis, ring worm)"
+        },
+        {
+            "question_number": 178,
+            "question_text": "Read the following statements about a drug and identify the drug; I. These are known for their effects on cardiovascular system of the body. II. These interact with the receptors present principally in brain. III. Generally taken by inhalation and oral ingestion.",
+            "options": [
+                "(1) Papaver sominiferum",
+                "(2) Erythroxylum coca",
+                "(3) Cannabis sativa",
+                "(4) Atropa belladonna"
+            ],
+            "question_id": "Q178",
+            "subject": "Zoology",
+            "chapter": "Human Health and Disease",
+            "topic": "Adolescence and drug/alcohol abuse"
+        },
+        {
+            "question_number": 179,
+            "question_text": "The chemical compound whose chemical structure is given below is obtained from which plant?",
+            "options": [
+                "(1) Papaver somniferum",
+                "(2) Erythroxylum coca",
+                "(3) Atropa belladonna",
+                "(4) Cannabis sativa"
+            ],
+            "question_id": "Q179",
+            "subject": "Zoology",
+            "chapter": "Human Health and Disease",
+            "topic": "Adolescence and drug/alcohol abuse"
+        },
+        {
+            "question_number": 180,
+            "question_text": "Ionizing radiations like X-rays and gamma rays and non-ionizing radiations like UV cause DNA damage leading to neoplastic transformation are called as:",
+            "options": [
+                "(1) carcinogens.",
+                "(2) oncogenes.",
+                "(3) pollutants.",
+                "(4) mutagens."
+            ],
+            "question_id": "Q180",
+            "subject": "Zoology",
+            "chapter": "Human Health and Disease",
+            "topic": "Cancer, HIV and AIDS"
+        }
+    ]
+}
