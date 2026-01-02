@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+pydantic
+google-generativeai
+PyMuPDF
+tqdm
