@@ -1,7 +1,7 @@
 # Pace Analytics
 
 This project automates the extraction and analysis of student exam data using LLMs.
-It processes PDF question papers and solutions, and student response CSVs to generate insights.
+It processes PDF question papers and solutions, and student response CSVs to generate insights and PDF reports.
 
 ## Folder Structure
 
@@ -10,8 +10,12 @@ It processes PDF question papers and solutions, and student response CSVs to gen
 - `src/`: Source code for the application.
   - `phase1/`: Data extraction and mechanical analytics.
   - `phase2/`: Qualitative analysis using LLMs.
+  - `phase3/`: Class-level synthesis and action plans.
+  - `phase4/`: Student data aggregation.
+  - `phase5/`: Pattern insights generation.
+  - `phase6/`: PDF report generation.
   - `utils/`: Shared utilities for file loading and validation.
-- `phase1.md` / `phase2.md`: Documentation for LLM prompts and logic.
+- `phase1.md` / `phase2.md` / `phase6.md`: Documentation for LLM prompts and logic.
 
 ## How to Run
 
@@ -32,4 +36,24 @@ python -m src.phase2.llm_runner
 python -m src.phase2.build_phase2_csvs
 ```
 
-**Note:** LLM prompts and logic are defined in phase1.md and phase2.md.
+### Phase 3-5
+Execute using case files:
+```bash
+python case3.py  # Class-level synthesis
+python case4.py  # Student data aggregation
+python case5.py  # Pattern insights
+```
+
+### Phase 6 (PDF Reports)
+Generate PDF reports for students:
+```bash
+# All students
+python case6.py
+
+# Single student (set STUDENT_NAME in .env or environment)
+$env:STUDENT_NAME="2025300001"; python case6.py
+```
+
+See [phase6.md](phase6.md) for detailed documentation.
+
+**Note:** LLM prompts and logic are defined in phase1.md, phase2.md, and phase6.md.
